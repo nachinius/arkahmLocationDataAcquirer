@@ -1,0 +1,1735 @@
+{
+ "content": [
+  {
+   "html": "\n<td> <a href=\"/607_Water_St.\" title=\"607 Water St.\">607 Water St.</a>\n</td>\n<td> <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/607_Water_St.\" title=\"607 Water St.\">607 Water St.</a>\n",
+    " <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "607 Water St.",
+    "link": "/607_Water_St."
+   },
+   "neighborhood": {
+    "name": "Harborside",
+    "link": "/Harborside"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Spell"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/7th_House_on_the_Left\" title=\"7th House on the Left\">7th House on the Left</a>\n</td>\n<td> <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/7th_House_on_the_Left\" title=\"7th House on the Left\">7th House on the Left</a>\n",
+    " <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "7th House on the Left",
+    "link": "/7th_House_on_the_Left"
+   },
+   "neighborhood": {
+    "name": "Central Hill",
+    "link": "/Central_Hill"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Administration_Building\" title=\"Administration Building\">Administration Building</a>\n</td>\n<td> <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Skill Icon</span><a href=\"/File%3ASkillIcon.png\" class=\"image\" title=\"Skill\"><img alt=\"Skill\" src=\"/wiki/images/SkillIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Administration_Building\" title=\"Administration Building\">Administration Building</a>\n",
+    " <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Skill Icon</span><a href=\"/File%3ASkillIcon.png\" class=\"image\" title=\"Skill\"><img alt=\"Skill\" src=\"/wiki/images/SkillIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Administration Building",
+    "link": "/Administration_Building"
+   },
+   "neighborhood": {
+    "name": "Miskatonic University",
+    "link": "/Miskatonic_University"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Money"
+   },
+   "encounterB": {
+    "type": "Skill"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Arkham_Asylum\" title=\"Arkham Asylum\">Arkham Asylum</a>\n</td>\n<td> <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Arkham_Asylum\" title=\"Arkham Asylum\">Arkham Asylum</a>\n",
+    " <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Arkham Asylum",
+    "link": "/Arkham_Asylum"
+   },
+   "neighborhood": {
+    "name": "Downtown",
+    "link": "/Downtown"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Sanity"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Artists%27_Colony\" title=\"Artists&apos; Colony\">Artists&apos; Colony</a>\n</td>\n<td> <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Artists%27_Colony\" title=\"Artists&apos; Colony\">Artists&apos; Colony</a>\n",
+    " <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "Artists' Colony",
+    "link": "/Artists%27_Colony"
+   },
+   "neighborhood": {
+    "name": "South Shore",
+    "link": "/South_Shore"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Sanity"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Bank_of_Arkham\" title=\"Bank of Arkham\">Bank of Arkham</a>\n</td>\n<td> <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Bank_of_Arkham\" title=\"Bank of Arkham\">Bank of Arkham</a>\n",
+    " <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Bank of Arkham",
+    "link": "/Bank_of_Arkham"
+   },
+   "neighborhood": {
+    "name": "Downtown",
+    "link": "/Downtown"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Blessing"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Bishop%27s_Brook_Bridge\" title=\"Bishop&apos;s Brook Bridge\">Bishop&apos;s Brook Bridge</a>\n</td>\n<td> <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Bishop%27s_Brook_Bridge\" title=\"Bishop&apos;s Brook Bridge\">Bishop&apos;s Brook Bridge</a>\n",
+    " <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Bishop's Brook Bridge",
+    "link": "/Bishop%27s_Brook_Bridge"
+   },
+   "neighborhood": {
+    "name": "Village Commons",
+    "link": "/Village_Commons"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Money"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Black_Cave\" title=\"Black Cave\">Black Cave</a>\n</td>\n<td> <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Black_Cave\" title=\"Black Cave\">Black Cave</a>\n",
+    " <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Black Cave",
+    "link": "/Black_Cave"
+   },
+   "neighborhood": {
+    "name": "Rivertown",
+    "link": "/Rivertown"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Common Item"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Cold_Spring_Glen\" title=\"Cold Spring Glen\">Cold Spring Glen</a>\n</td>\n<td> <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Cold_Spring_Glen\" title=\"Cold Spring Glen\">Cold Spring Glen</a>\n",
+    " <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Cold Spring Glen",
+    "link": "/Cold_Spring_Glen"
+   },
+   "neighborhood": {
+    "name": "Backwoods Country",
+    "link": "/Backwoods_Country"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Blessing"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Congregational_Hospital\" title=\"Congregational Hospital\">Congregational Hospital</a>\n</td>\n<td> <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Congregational_Hospital\" title=\"Congregational Hospital\">Congregational Hospital</a>\n",
+    " <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "Congregational Hospital",
+    "link": "/Congregational_Hospital"
+   },
+   "neighborhood": {
+    "name": "Central Hill",
+    "link": "/Central_Hill"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Sanity"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Curiositie_Shoppe\" title=\"Curiositie Shoppe\">Curiositie Shoppe</a>\n</td>\n<td> <a href=\"/Northside\" title=\"Northside\">Northside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Curiositie_Shoppe\" title=\"Curiositie Shoppe\">Curiositie Shoppe</a>\n",
+    " <a href=\"/Northside\" title=\"Northside\">Northside</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Curiositie Shoppe",
+    "link": "/Curiositie_Shoppe"
+   },
+   "neighborhood": {
+    "name": "Northside",
+    "link": "/Northside"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Common Item"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Darke%27s_Carnival\" title=\"Darke&apos;s Carnival\">Darke&apos;s Carnival</a>\n</td>\n<td> <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Darke%27s_Carnival\" title=\"Darke&apos;s Carnival\">Darke&apos;s Carnival</a>\n",
+    " <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Darke's Carnival",
+    "link": "/Darke%27s_Carnival"
+   },
+   "neighborhood": {
+    "name": "Village Commons",
+    "link": "/Village_Commons"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Sanity"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Devil_Reef\" title=\"Devil Reef\">Devil Reef</a>\n</td>\n<td> <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Devil_Reef\" title=\"Devil Reef\">Devil Reef</a>\n",
+    " <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "Devil Reef",
+    "link": "/Devil_Reef"
+   },
+   "neighborhood": {
+    "name": "Innsmouth Shore",
+    "link": "/Innsmouth_Shore"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Devil%27s_Hopyard\" title=\"Devil&apos;s Hopyard\">Devil&apos;s Hopyard</a>\n</td>\n<td> <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Devil%27s_Hopyard\" title=\"Devil&apos;s Hopyard\">Devil&apos;s Hopyard</a>\n",
+    " <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Devil's Hopyard",
+    "link": "/Devil%27s_Hopyard"
+   },
+   "neighborhood": {
+    "name": "Blasted Heath",
+    "link": "/Blasted_Heath"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Dunwich_Village\" title=\"Dunwich Village\">Dunwich Village</a>\n</td>\n<td> <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Dunwich_Village\" title=\"Dunwich Village\">Dunwich Village</a>\n",
+    " <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Dunwich Village",
+    "link": "/Dunwich_Village"
+   },
+   "neighborhood": {
+    "name": "Village Commons",
+    "link": "/Village_Commons"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Esoteric_Order_of_Dagon\" title=\"Esoteric Order of Dagon\">Esoteric Order of Dagon</a>\n</td>\n<td> <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Esoteric_Order_of_Dagon\" title=\"Esoteric Order of Dagon\">Esoteric Order of Dagon</a>\n",
+    " <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "Esoteric Order of Dagon",
+    "link": "/Esoteric_Order_of_Dagon"
+   },
+   "neighborhood": {
+    "name": "Church Green",
+    "link": "/Church_Green"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Blessing"
+   },
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Falcon_Point\" title=\"Falcon Point\">Falcon Point</a>\n</td>\n<td> <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Falcon_Point\" title=\"Falcon Point\">Falcon Point</a>\n",
+    " <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "Falcon Point",
+    "link": "/Falcon_Point"
+   },
+   "neighborhood": {
+    "name": "Innsmouth Shore",
+    "link": "/Innsmouth_Shore"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Common Item"
+   },
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/First_National_Grocery\" title=\"First National Grocery\">First National Grocery</a>\n</td>\n<td> <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/First_National_Grocery\" title=\"First National Grocery\">First National Grocery</a>\n",
+    " <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "First National Grocery",
+    "link": "/First_National_Grocery"
+   },
+   "neighborhood": {
+    "name": "Factory District",
+    "link": "/Factory_District"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Common Item"
+   },
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Gardners%27_Place\" title=\"Gardners&apos; Place\">Gardners&apos; Place</a>\n</td>\n<td> <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Gardners%27_Place\" title=\"Gardners&apos; Place\">Gardners&apos; Place</a>\n",
+    " <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Gardners' Place",
+    "link": "/Gardners%27_Place"
+   },
+   "neighborhood": {
+    "name": "Blasted Heath",
+    "link": "/Blasted_Heath"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/General_Store\" title=\"General Store\">General Store</a>\n</td>\n<td> <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/General_Store\" title=\"General Store\">General Store</a>\n",
+    " <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "General Store",
+    "link": "/General_Store"
+   },
+   "neighborhood": {
+    "name": "Rivertown",
+    "link": "/Rivertown"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Common Item"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Gilman_House_Hotel\" title=\"Gilman House Hotel\">Gilman House Hotel</a>\n</td>\n<td> <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Gilman_House_Hotel\" title=\"Gilman House Hotel\">Gilman House Hotel</a>\n",
+    " <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "Gilman House Hotel",
+    "link": "/Gilman_House_Hotel"
+   },
+   "neighborhood": {
+    "name": "Factory District",
+    "link": "/Factory_District"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Sanity"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Graveyard\" title=\"Graveyard\">Graveyard</a>\n</td>\n<td> <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Graveyard\" title=\"Graveyard\">Graveyard</a>\n",
+    " <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Graveyard",
+    "link": "/Graveyard"
+   },
+   "neighborhood": {
+    "name": "Rivertown",
+    "link": "/Rivertown"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Hall_School\" title=\"Hall School\" class=\"mw-redirect\">Hall School</a>\n</td>\n<td> <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Hall_School\" title=\"Hall School\" class=\"mw-redirect\">Hall School</a>\n",
+    " <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "Hall School",
+    "link": "/Hall_School"
+   },
+   "neighborhood": {
+    "name": "South Shore",
+    "link": "/South_Shore"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Harney_Jones%27_Shack\" title=\"Harney Jones&apos; Shack\">Harney Jones&apos; Shack</a>\n</td>\n<td> <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Harney_Jones%27_Shack\" title=\"Harney Jones&apos; Shack\">Harney Jones&apos; Shack</a>\n",
+    " <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Harney Jones' Shack",
+    "link": "/Harney_Jones%27_Shack"
+   },
+   "neighborhood": {
+    "name": "Blasted Heath",
+    "link": "/Blasted_Heath"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Stamina"
+   },
+   "encounterB": {
+    "type": "Sanity"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Hibb%27s_Roadhouse\" title=\"Hibb&apos;s Roadhouse\">Hibb&apos;s Roadhouse</a>\n</td>\n<td> <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Hibb%27s_Roadhouse\" title=\"Hibb&apos;s Roadhouse\">Hibb&apos;s Roadhouse</a>\n",
+    " <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Hibb's Roadhouse",
+    "link": "/Hibb%27s_Roadhouse"
+   },
+   "neighborhood": {
+    "name": "Easttown",
+    "link": "/Easttown"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Common Item"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Historical_Society\" title=\"Historical Society\">Historical Society</a>\n</td>\n<td> <a href=\"/Southside\" title=\"Southside\">Southside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Skill Icon</span><a href=\"/File%3ASkillIcon.png\" class=\"image\" title=\"Skill\"><img alt=\"Skill\" src=\"/wiki/images/SkillIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Historical_Society\" title=\"Historical Society\">Historical Society</a>\n",
+    " <a href=\"/Southside\" title=\"Southside\">Southside</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Skill Icon</span><a href=\"/File%3ASkillIcon.png\" class=\"image\" title=\"Skill\"><img alt=\"Skill\" src=\"/wiki/images/SkillIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Historical Society",
+    "link": "/Historical_Society"
+   },
+   "neighborhood": {
+    "name": "Southside",
+    "link": "/Southside"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Skill"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Independence_Square\" title=\"Independence Square\">Independence Square</a>\n</td>\n<td> <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Independence_Square\" title=\"Independence Square\">Independence Square</a>\n",
+    " <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Independence Square",
+    "link": "/Independence_Square"
+   },
+   "neighborhood": {
+    "name": "Downtown",
+    "link": "/Downtown"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Inner_Sanctum\" title=\"Inner Sanctum\">Inner Sanctum</a>\n</td>\n<td> <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n</td>\n<td align=\"center\">  N/A\n</td>\n<td align=\"center\"> N/A\n</td>\n<td align=\"center\"> N/A\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Inner_Sanctum\" title=\"Inner Sanctum\">Inner Sanctum</a>\n",
+    " <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n",
+    "  N/A\n",
+    " N/A\n",
+    " N/A\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Inner Sanctum",
+    "link": "/Inner_Sanctum"
+   },
+   "neighborhood": {
+    "name": "French Hill",
+    "link": "/French_Hill"
+   },
+   "stability": {
+    "type": ""
+   },
+   "encounterA": {},
+   "encounterB": {},
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Innsmouth_Jail\" title=\"Innsmouth Jail\">Innsmouth Jail</a>\n</td>\n<td> <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Innsmouth_Jail\" title=\"Innsmouth Jail\">Innsmouth Jail</a>\n",
+    " <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "Innsmouth Jail",
+    "link": "/Innsmouth_Jail"
+   },
+   "neighborhood": {
+    "name": "Church Green",
+    "link": "/Church_Green"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Common Item"
+   },
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Jail_Cell\" title=\"Jail Cell\">Jail Cell</a>\n</td>\n<td> <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n</td>\n<td align=\"center\">  N/A\n</td>\n<td align=\"center\"> N/A\n</td>\n<td align=\"center\"> N/A\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Jail_Cell\" title=\"Jail Cell\">Jail Cell</a>\n",
+    " <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n",
+    "  N/A\n",
+    " N/A\n",
+    " N/A\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "Jail Cell",
+    "link": "/Jail_Cell"
+   },
+   "neighborhood": {
+    "name": "Church Green",
+    "link": "/Church_Green"
+   },
+   "stability": {
+    "type": ""
+   },
+   "encounterA": {},
+   "encounterB": {},
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Library\" title=\"Library\">Library</a>\n</td>\n<td> <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Library\" title=\"Library\">Library</a>\n",
+    " <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Library",
+    "link": "/Library"
+   },
+   "neighborhood": {
+    "name": "Miskatonic University",
+    "link": "/Miskatonic_University"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Unique Item"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Ma%27s_Boarding_House\" title=\"Ma&apos;s Boarding House\">Ma&apos;s Boarding House</a>\n</td>\n<td> <a href=\"/Southside\" title=\"Southside\">Southside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Ally Icon</span><a href=\"/File%3AAllyIcon.png\" class=\"image\" title=\"Ally\"><img alt=\"Ally\" src=\"/wiki/images/AllyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Ma%27s_Boarding_House\" title=\"Ma&apos;s Boarding House\">Ma&apos;s Boarding House</a>\n",
+    " <a href=\"/Southside\" title=\"Southside\">Southside</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Ally Icon</span><a href=\"/File%3AAllyIcon.png\" class=\"image\" title=\"Ally\"><img alt=\"Ally\" src=\"/wiki/images/AllyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Ma's Boarding House",
+    "link": "/Ma%27s_Boarding_House"
+   },
+   "neighborhood": {
+    "name": "Southside",
+    "link": "/Southside"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Ally"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Marsh_Refinery\" title=\"Marsh Refinery\">Marsh Refinery</a>\n</td>\n<td> <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Marsh_Refinery\" title=\"Marsh Refinery\">Marsh Refinery</a>\n",
+    " <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "Marsh Refinery",
+    "link": "/Marsh_Refinery"
+   },
+   "neighborhood": {
+    "name": "Factory District",
+    "link": "/Factory_District"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Neil%27s_Curiosity_Shop\" title=\"Neil&apos;s Curiosity Shop\">Neil&apos;s Curiosity Shop</a>\n</td>\n<td> <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Neil%27s_Curiosity_Shop\" title=\"Neil&apos;s Curiosity Shop\">Neil&apos;s Curiosity Shop</a>\n",
+    " <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "Neil's Curiosity Shop",
+    "link": "/Neil%27s_Curiosity_Shop"
+   },
+   "neighborhood": {
+    "name": "South Shore",
+    "link": "/South_Shore"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Newspaper\" title=\"Newspaper\">Newspaper</a>\n</td>\n<td> <a href=\"/Northside\" title=\"Northside\">Northside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Newspaper\" title=\"Newspaper\">Newspaper</a>\n",
+    " <a href=\"/Northside\" title=\"Northside\">Northside</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Newspaper",
+    "link": "/Newspaper"
+   },
+   "neighborhood": {
+    "name": "Northside",
+    "link": "/Northside"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/North_Point_Lighthouse\" title=\"North Point Lighthouse\">North Point Lighthouse</a>\n</td>\n<td> <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/North_Point_Lighthouse\" title=\"North Point Lighthouse\">North Point Lighthouse</a>\n",
+    " <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "North Point Lighthouse",
+    "link": "/North_Point_Lighthouse"
+   },
+   "neighborhood": {
+    "name": "Harborside",
+    "link": "/Harborside"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Police_Station\" title=\"Police Station\">Police Station</a>\n</td>\n<td> <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Police_Station\" title=\"Police Station\">Police Station</a>\n",
+    " <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Police Station",
+    "link": "/Police_Station"
+   },
+   "neighborhood": {
+    "name": "Easttown",
+    "link": "/Easttown"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Common Item"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/River_Docks\" title=\"River Docks\">River Docks</a>\n</td>\n<td> <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/River_Docks\" title=\"River Docks\">River Docks</a>\n",
+    " <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "River Docks",
+    "link": "/River_Docks"
+   },
+   "neighborhood": {
+    "name": "Merchant District",
+    "link": "/Merchant_District"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Common Item"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Science_Building\" title=\"Science Building\">Science Building</a>\n</td>\n<td> <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Science_Building\" title=\"Science Building\">Science Building</a>\n",
+    " <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Science Building",
+    "link": "/Science_Building"
+   },
+   "neighborhood": {
+    "name": "Miskatonic University",
+    "link": "/Miskatonic_University"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Silver_Twilight_Lodge\" title=\"Silver Twilight Lodge\">Silver Twilight Lodge</a>\n</td>\n<td> <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Silver_Twilight_Lodge\" title=\"Silver Twilight Lodge\">Silver Twilight Lodge</a>\n",
+    " <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Silver Twilight Lodge",
+    "link": "/Silver_Twilight_Lodge"
+   },
+   "neighborhood": {
+    "name": "French Hill",
+    "link": "/French_Hill"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/South_Church\" title=\"South Church\">South Church</a>\n</td>\n<td> <a href=\"/Southside\" title=\"Southside\">Southside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/South_Church\" title=\"South Church\">South Church</a>\n",
+    " <a href=\"/Southside\" title=\"Southside\">Southside</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "South Church",
+    "link": "/South_Church"
+   },
+   "neighborhood": {
+    "name": "Southside",
+    "link": "/Southside"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Blessing"
+   },
+   "encounterB": {
+    "type": "Sanity"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/St._Erasmus%27s_Home\" title=\"St. Erasmus&apos;s Home\">St. Erasmus&apos;s Home</a>\n</td>\n<td> <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/St._Erasmus%27s_Home\" title=\"St. Erasmus&apos;s Home\">St. Erasmus&apos;s Home</a>\n",
+    " <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "St. Erasmus's Home",
+    "link": "/St._Erasmus%27s_Home"
+   },
+   "neighborhood": {
+    "name": "Central Hill",
+    "link": "/Central_Hill"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/St._Mary%27s_Hospital\" title=\"St. Mary&apos;s Hospital\">St. Mary&apos;s Hospital</a>\n</td>\n<td> <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/St._Mary%27s_Hospital\" title=\"St. Mary&apos;s Hospital\">St. Mary&apos;s Hospital</a>\n",
+    " <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "St. Mary's Hospital",
+    "link": "/St._Mary%27s_Hospital"
+   },
+   "neighborhood": {
+    "name": "Uptown",
+    "link": "/Uptown"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Strange_High_House\" title=\"Strange High House\">Strange High House</a>\n</td>\n<td> <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Strange_High_House\" title=\"Strange High House\">Strange High House</a>\n",
+    " <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "Strange High House",
+    "link": "/Strange_High_House"
+   },
+   "neighborhood": {
+    "name": "Kingsport Head",
+    "link": "/Kingsport_Head"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Common Item"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/The_Causeway\" title=\"The Causeway\">The Causeway</a>\n</td>\n<td> <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/The_Causeway\" title=\"The Causeway\">The Causeway</a>\n",
+    " <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "The Causeway",
+    "link": "/The_Causeway"
+   },
+   "neighborhood": {
+    "name": "Kingsport Head",
+    "link": "/Kingsport_Head"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Spell"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/The_Rope_and_Anchor\" title=\"The Rope and Anchor\">The Rope and Anchor</a>\n</td>\n<td> <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/The_Rope_and_Anchor\" title=\"The Rope and Anchor\">The Rope and Anchor</a>\n",
+    " <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "The Rope and Anchor",
+    "link": "/The_Rope_and_Anchor"
+   },
+   "neighborhood": {
+    "name": "Harborside",
+    "link": "/Harborside"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Sanity"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/The_Unnamable\" title=\"The Unnamable\">The Unnamable</a>\n</td>\n<td> <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/The_Unnamable\" title=\"The Unnamable\">The Unnamable</a>\n",
+    " <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "The Unnamable",
+    "link": "/The_Unnamable"
+   },
+   "neighborhood": {
+    "name": "Merchant District",
+    "link": "/Merchant_District"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/The_Witch_House\" title=\"The Witch House\">The Witch House</a>\n</td>\n<td> <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/The_Witch_House\" title=\"The Witch House\">The Witch House</a>\n",
+    " <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "The Witch House",
+    "link": "/The_Witch_House"
+   },
+   "neighborhood": {
+    "name": "French Hill",
+    "link": "/French_Hill"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Train_Station\" title=\"Train Station\">Train Station</a>\n</td>\n<td> <a href=\"/Northside\" title=\"Northside\">Northside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Train_Station\" title=\"Train Station\">Train Station</a>\n",
+    " <a href=\"/Northside\" title=\"Northside\">Northside</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Train Station",
+    "link": "/Train_Station"
+   },
+   "neighborhood": {
+    "name": "Northside",
+    "link": "/Northside"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Common Item"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Unvisited_Isle\" title=\"Unvisited Isle\">Unvisited Isle</a>\n</td>\n<td> <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Unvisited_Isle\" title=\"Unvisited Isle\">Unvisited Isle</a>\n",
+    " <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Unvisited Isle",
+    "link": "/Unvisited_Isle"
+   },
+   "neighborhood": {
+    "name": "Merchant District",
+    "link": "/Merchant_District"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Velma%27s_Diner\" title=\"Velma&apos;s Diner\">Velma&apos;s Diner</a>\n</td>\n<td> <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Velma%27s_Diner\" title=\"Velma&apos;s Diner\">Velma&apos;s Diner</a>\n",
+    " <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Velma's Diner",
+    "link": "/Velma%27s_Diner"
+   },
+   "neighborhood": {
+    "name": "Easttown",
+    "link": "/Easttown"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Money"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Whateley_Farm\" title=\"Whateley Farm\">Whateley Farm</a>\n</td>\n<td> <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Whateley_Farm\" title=\"Whateley Farm\">Whateley Farm</a>\n",
+    " <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Whateley Farm",
+    "link": "/Whateley_Farm"
+   },
+   "neighborhood": {
+    "name": "Backwoods Country",
+    "link": "/Backwoods_Country"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Wireless_Station\" title=\"Wireless Station\">Wireless Station</a>\n</td>\n<td> <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Wireless_Station\" title=\"Wireless Station\">Wireless Station</a>\n",
+    " <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
+   ],
+   "location": {
+    "name": "Wireless Station",
+    "link": "/Wireless_Station"
+   },
+   "neighborhood": {
+    "name": "Kingsport Head",
+    "link": "/Kingsport_Head"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Stamina"
+   },
+   "expansion": {
+    "type": "Kingsport Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Wizard%27s_Hill\" title=\"Wizard&apos;s Hill\">Wizard&apos;s Hill</a>\n</td>\n<td> <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Wizard%27s_Hill\" title=\"Wizard&apos;s Hill\">Wizard&apos;s Hill</a>\n",
+    " <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
+   ],
+   "location": {
+    "name": "Wizard's Hill",
+    "link": "/Wizard%27s_Hill"
+   },
+   "neighborhood": {
+    "name": "Backwoods Country",
+    "link": "/Backwoods_Country"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Money"
+   },
+   "encounterB": {
+    "type": "Spell"
+   },
+   "expansion": {
+    "type": "Dunwich Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Woods\" title=\"Woods\">Woods</a>\n</td>\n<td> <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Woods\" title=\"Woods\">Woods</a>\n",
+    " <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Woods",
+    "link": "/Woods"
+   },
+   "neighborhood": {
+    "name": "Uptown",
+    "link": "/Uptown"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Common Item"
+   },
+   "encounterB": {
+    "type": "Money"
+   },
+   "expansion": {}
+  },
+  {
+   "html": "\n<td> <a href=\"/Y%27ha-nthlei\" title=\"Y&apos;ha-nthlei\">Y&apos;ha-nthlei</a>\n</td>\n<td> <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
+   "sub": [
+    " <a href=\"/Y%27ha-nthlei\" title=\"Y&apos;ha-nthlei\">Y&apos;ha-nthlei</a>\n",
+    " <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n",
+    " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
+   ],
+   "location": {
+    "name": "Y'ha-nthlei",
+    "link": "/Y%27ha-nthlei"
+   },
+   "neighborhood": {
+    "name": "Innsmouth Shore",
+    "link": "/Innsmouth_Shore"
+   },
+   "stability": {
+    "type": "Unstable Icon"
+   },
+   "encounterA": {
+    "type": "Clue"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {
+    "type": "Innsmouth Horror"
+   }
+  },
+  {
+   "html": "\n<td> <a href=\"/Ye_Olde_Magick_Shoppe\" title=\"Ye Olde Magick Shoppe\">Ye Olde Magick Shoppe</a>\n</td>\n<td> <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
+   "sub": [
+    " <a href=\"/Ye_Olde_Magick_Shoppe\" title=\"Ye Olde Magick Shoppe\">Ye Olde Magick Shoppe</a>\n",
+    " <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n",
+    " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
+    "\n"
+   ],
+   "location": {
+    "name": "Ye Olde Magick Shoppe",
+    "link": "/Ye_Olde_Magick_Shoppe"
+   },
+   "neighborhood": {
+    "name": "Uptown",
+    "link": "/Uptown"
+   },
+   "stability": {
+    "type": "Stable Icon"
+   },
+   "encounterA": {
+    "type": "Spell"
+   },
+   "encounterB": {
+    "type": "Unique Item"
+   },
+   "expansion": {}
+  }
+ ],
+ "titles": [
+  {
+   "i": 0,
+   "e": " Location\n"
+  },
+  {
+   "i": 1,
+   "e": " Neighborhood\n"
+  },
+  {
+   "i": 2,
+   "e": " Stability\n"
+  },
+  {
+   "i": 3,
+   "e": " Encounter\n"
+  },
+  {
+   "i": 4,
+   "e": " Encounter\n"
+  },
+  {
+   "i": 5,
+   "e": " Expansion\n"
+  }
+ ]
+}
