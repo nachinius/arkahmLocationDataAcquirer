@@ -1,16 +1,24 @@
-
-
 # arkhamDataAcquirer
 
-
+addHoc usage, quick and dirty
+crawl for some html pages, in order to obtain
+information regarding arkham location and its encounters.
+It process the html and returns a json
 
 ## Usage
 
+        node index.js
 
+or
+
+        grunt
 
 ## Developing
 
+Run
 
+        grunt
+and modify index.js as necessary. 
 
 ### Tools
 
