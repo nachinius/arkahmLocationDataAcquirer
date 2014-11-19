@@ -35,7 +35,7 @@ function processLocationsFromHtml(html, cbk) {
 			var ele = $(e2);
 			//obj[i].sub[i2] = ele.html();
 			if (i2 == 0) {
-				obj[i].location = {
+			obj[i].location = {
 					name : ele.text().replace('\n', '').trim(),
 					link : ele.children('a').attr('href')
 				};
@@ -87,12 +87,15 @@ function processSingleLocation(html, cbk) {
 	data.map(function(i, e) {
 		result[i]={};
 		$(e).children('td').map(function(i2,td) {
-			if(i2==0) {
+			if(i2===0) {
 				result[i].text = $(td).text().replace('\n','').trim();
-			} else if(i2==1) {
+			} else if(i2===1) {
 				result[i].skill = $(td).text().replace('\n','').trim();
-			} else if(i2==2) {
-				result[i].expansion = $(td).children('a').attr('title');
+			} else if(i2===2) { 
+				result[i].expansion = [];
+				$(td).children('a').map(function(ii,e) {
+					result[i].expansion.push($(e).attr('title'));
+				});
 			}
 		});
 	});
