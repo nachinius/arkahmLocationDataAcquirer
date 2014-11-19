@@ -28,12 +28,12 @@ function processLocationsFromHtml(html, cbk) {
 	data.map(function(i, e) {
 
 		obj[i] = {
-			html : $(e).html(),
+			//html : $(e).html(),
 			sub : []
 		};
 		$(e).children('td').map(function(i2, e2) {
 			var ele = $(e2);
-			obj[i].sub[i2] = ele.html();
+			//obj[i].sub[i2] = ele.html();
 			if (i2 == 0) {
 				obj[i].location = {
 					name : ele.text().replace('\n', '').trim(),
@@ -73,6 +73,10 @@ function processSingleLocation(html, cbk) {
 	
 	var result = {};
 	
+	if($('#Special_Encounter').length > 0) {
+		result.special_encounter = $('#Special_Encounter').parent().next().text().replace('\n','').trim();
+	}
+	
 	// get the card list
 	var data = $('table tr');
 	var length = data.length;
@@ -107,7 +111,7 @@ function diveIntoLocation(obj, cbk) {
 		var filename = urlToFilename(link);
 		getAndProcess(link, filename, function(err,html) {
 			processSingleLocation(html, function(err, data) {
-				obj[idx].data = data;
+				obj[idx].encounters = data;
 				results++;
 				if(results == length) {
 					console.log('reached end');

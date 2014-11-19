@@ -1,14 +1,6 @@
 [
  {
-  "html": "\n<td> <a href=\"/607_Water_St.\" title=\"607 Water St.\">607 Water St.</a>\n</td>\n<td> <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/607_Water_St.\" title=\"607 Water St.\">607 Water St.</a>\n",
-   " <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "607 Water St.",
    "link": "/607_Water_St."
@@ -29,7 +21,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Listen!\" An old man with a piercing gaze locks eyes with you, and you feel strange information squirming around in your head. Pass a Will (-1) check to gain 1 Spell.",
     "skill": "Will -1",
@@ -203,15 +195,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/7th_House_on_the_Left\" title=\"7th House on the Left\">7th House on the Left</a>\n</td>\n<td> <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/7th_House_on_the_Left\" title=\"7th House on the Left\">7th House on the Left</a>\n",
-   " <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "7th House on the Left",
    "link": "/7th_House_on_the_Left"
@@ -232,7 +216,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "As innocent as the house looks, you cannot help but think that a malevolent force once dwelt here that is reaching out to you even now. Make a Will (+0) check. If you fail, take the Tainted card if it is available.",
     "skill": "Will +0",
@@ -406,15 +390,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Administration_Building\" title=\"Administration Building\">Administration Building</a>\n</td>\n<td> <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Skill Icon</span><a href=\"/File%3ASkillIcon.png\" class=\"image\" title=\"Skill\"><img alt=\"Skill\" src=\"/wiki/images/SkillIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Administration_Building\" title=\"Administration Building\">Administration Building</a>\n",
-   " <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Skill Icon</span><a href=\"/File%3ASkillIcon.png\" class=\"image\" title=\"Skill\"><img alt=\"Skill\" src=\"/wiki/images/SkillIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Administration Building",
    "link": "/Administration_Building"
@@ -433,7 +409,7 @@
    "type": "Skill"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Jazz\" Mulligan, the college's head janitor, is here, mopping something up. \"You shouldn't look in that room, now. It's not a sight for decent folks, and the police are already on the case.\" Despite his warning, you take a peek and lose 1 Sanity as you see the red mess he's cleaning up.",
     "skill": "",
@@ -626,19 +602,12 @@
     "text": "You're not sure how, but you find yourself interviewing for a guest lecturer position. Pass a Will (-2) check to gain a Retainer.",
     "skill": "Will -2",
     "expansion": "Innsmouth Horror"
-   }
+   },
+   "special_encounter": "Classes: Instead of having an encounter here, you may pay $8 to draw 2 Skills. Keep one of them and discard the other."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Arkham_Asylum\" title=\"Arkham Asylum\">Arkham Asylum</a>\n</td>\n<td> <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Arkham_Asylum\" title=\"Arkham Asylum\">Arkham Asylum</a>\n",
-   " <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Arkham Asylum",
    "link": "/Arkham_Asylum"
@@ -657,7 +626,7 @@
    "type": "Sanity"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Everything's going to be fine,\" says a kindly patient in the lounge, seeming quite lucid.  He pats your hand, gets up, and walks off.  The strange thing is, you find yourself quite convinced.  Gain 3 Sanity.",
     "skill": "",
@@ -850,19 +819,12 @@
     "text": "You sneak into a finger-painting session. Gain 1 Sanity.",
     "skill": "",
     "expansion": "Innsmouth Horror"
-   }
+   },
+   "special_encounter": "Psychiatric Care: Instead of having an encounter here, you may recover Sanity by receiving psychiatric care. You may either regain 1 Sanity for free, or pay $2 to restore your Sanity to its maximum value."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Artists%27_Colony\" title=\"Artists&apos; Colony\">Artists&apos; Colony</a>\n</td>\n<td> <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Artists%27_Colony\" title=\"Artists&apos; Colony\">Artists&apos; Colony</a>\n",
-   " <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Artists' Colony",
    "link": "/Artists%27_Colony"
@@ -883,7 +845,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Come on, love. Let's go back to my place and I'll paint your portrait for you.\" A tall, dark-haired lothario presses his affections upon a reluctant young lady nearby while holding onto her arm. If you wish, you may interfere. If so, pass a Fight (-1) check or a Will (-2) check to drive him off and gain 1 Sanity. If you fail, lose 1 Stamina as he backhands you cruelly before storming off.",
     "skill": "Fight -1OR\nWill -2",
@@ -1057,15 +1019,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Bank_of_Arkham\" title=\"Bank of Arkham\">Bank of Arkham</a>\n</td>\n<td> <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Bank_of_Arkham\" title=\"Bank of Arkham\">Bank of Arkham</a>\n",
-   " <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Bank of Arkham",
    "link": "/Bank_of_Arkham"
@@ -1084,7 +1038,7 @@
    "type": "Money"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Have you come to empty out your safety deposit box?\" One of the tellers hands you a key. \"This way, please.\" Confused, you follow her as she leads you down into the vault, where you retrieve a small box and open it up with the key. Make a Luck (-1) check. If you pass, you find an odd object inside. Gain 1 Unique Item. If you fail, the box contains only a stern warning for you to flee Arkham immediately, never to return. Lose 1 Sanity.",
     "skill": "Luck -1",
@@ -1272,19 +1226,12 @@
     "text": "You wander past the bank after hours, and see the night watchman convulsing on the floor! Make a Fight (-2) check to restrain him. If you fail, you lose 1 Stamina. If you pass, he begins speaking in tongues, and some unknown power Blesses you.",
     "skill": "Fight -2",
     "expansion": "The King in Yellow"
-   }
+   },
+   "special_encounter": "Bank Loan: Instead of having an encounter here, you may take out a Bank Loan if you don't have one yet."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Bishop%27s_Brook_Bridge\" title=\"Bishop&apos;s Brook Bridge\">Bishop&apos;s Brook Bridge</a>\n</td>\n<td> <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Bishop%27s_Brook_Bridge\" title=\"Bishop&apos;s Brook Bridge\">Bishop&apos;s Brook Bridge</a>\n",
-   " <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Bishop's Brook Bridge",
    "link": "/Bishop%27s_Brook_Bridge"
@@ -1305,7 +1252,7 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"You lookin' fer Wilbur? I seen hin here. On his way to Sentinel Hill.\" A local farmer sees you examining the bridge. Make a Lore (-2) check to learn what you can from the man. Gain 1 Clue token for each success.",
     "skill": "Lore -2",
@@ -1479,15 +1426,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Black_Cave\" title=\"Black Cave\">Black Cave</a>\n</td>\n<td> <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Black_Cave\" title=\"Black Cave\">Black Cave</a>\n",
-   " <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Black Cave",
    "link": "/Black_Cave"
@@ -1506,7 +1445,7 @@
    "type": "Spell"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "A cave-in blocks the path you came in! Your only hope is to find another way out. Stay here next turn.",
     "skill": "",
@@ -1703,15 +1642,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Cold_Spring_Glen\" title=\"Cold Spring Glen\">Cold Spring Glen</a>\n</td>\n<td> <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Cold_Spring_Glen\" title=\"Cold Spring Glen\">Cold Spring Glen</a>\n",
-   " <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Cold Spring Glen",
    "link": "/Cold_Spring_Glen"
@@ -1732,7 +1663,7 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A bunch of kids are down here playing some game you've never seen before and repeating a little musical phrase that you suspect has a deeper meaning. Make a Lore (-2) check. If you pass, you recognize what the children's rhyme really means. Gain 1 Spell.",
     "skill": "Lore -2",
@@ -1906,15 +1837,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Congregational_Hospital\" title=\"Congregational Hospital\">Congregational Hospital</a>\n</td>\n<td> <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Congregational_Hospital\" title=\"Congregational Hospital\">Congregational Hospital</a>\n",
-   " <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Congregational Hospital",
    "link": "/Congregational_Hospital"
@@ -1935,7 +1858,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"This was pulled out of the water yesterday. You might want to see it.\" The doctors show you the body of a deep one. The sight and odor are incredibly repugnant. Lose 1 Stamina. Then, if you are still conscious, make a Lore (-1) check and gain 1 Clue token for each success.",
     "skill": "Lore -1",
@@ -2105,19 +2028,12 @@
     "text": "Your doctors give you a pill to help you relax. Move to the first are of the Dreamlands, have an encounter there, and then immediately return.",
     "skill": "",
     "expansion": "Miskatonic Horror: Kingsport Horror component"
-   }
+   },
+   "special_encounter": "Treatment: Instead of having an encounter here, you may spend $1 to regain 1 Sanity and 1 Stamina."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Curiositie_Shoppe\" title=\"Curiositie Shoppe\">Curiositie Shoppe</a>\n</td>\n<td> <a href=\"/Northside\" title=\"Northside\">Northside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Curiositie_Shoppe\" title=\"Curiositie Shoppe\">Curiositie Shoppe</a>\n",
-   " <a href=\"/Northside\" title=\"Northside\">Northside</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Curiositie Shoppe",
    "link": "/Curiositie_Shoppe"
@@ -2136,7 +2052,7 @@
    "type": "Unique Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"According to legend, this mirror was once used to travel from our world into the lands beyond. Does this interest you?\" If you wish, you may discard any Common Item, Unique Item, or Spell to move to the first area of any Other World.",
     "skill": "",
@@ -2324,19 +2240,12 @@
    "38": {
     "text": "You weed through piles of junk looking for something useful. Make a Luck (-1) check to see what you find. If you pass, your search has resulted in success. You may look at the top cards of both the Common and Unique Item decks. You may purchase one, both, or neither at list price.  If you fail, there is little of interest here, but you may look at the top card of the Common Item deck and purchase it for its list price.",
     "skill": "Luck -1"
-   }
+   },
+   "special_encounter": "Shop: Instead of having an encounter here, you may draw 3 Unique Items and purchase one of them for its list price. Discard the other two items."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Darke%27s_Carnival\" title=\"Darke&apos;s Carnival\">Darke&apos;s Carnival</a>\n</td>\n<td> <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Darke%27s_Carnival\" title=\"Darke&apos;s Carnival\">Darke&apos;s Carnival</a>\n",
-   " <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Darke's Carnival",
    "link": "/Darke%27s_Carnival"
@@ -2357,7 +2266,7 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"All the answers to life's mysteries can be found at the center of the Maze of Mirrors! Enter if you dare, my friend. Only $1!\" You may pay $1 to make a Lore (-1) check. If you pass, you find a strange inscription at the center of the maze. Draw 1 Spell. If you fail, you wander aimlessly. Stay here next turn.",
     "skill": "Lore -1",
@@ -2527,19 +2436,12 @@
     "text": "You see an apparently confused old man, asking strangers if they've seen his mommy and daddy. To help him, you find the proprietor. Mr. Darke tells you that he'll take care of it and then asks the elderly man if he's learned his lesson about little boys sneaking where they're not suppose to be. Lose 1 Sanity and gain 1 Clue token.",
     "skill": "",
     "expansion": "Miskatonic Horror: Dunwich Horror component"
-   }
+   },
+   "special_encounter": "Wheel of Fortune: Instead of having an encounter here, you may pay $1 to roll a die. On a success, you gain $3."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Devil_Reef\" title=\"Devil Reef\">Devil Reef</a>\n</td>\n<td> <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Devil_Reef\" title=\"Devil Reef\">Devil Reef</a>\n",
-   " <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Devil Reef",
    "link": "/Devil_Reef"
@@ -2560,7 +2462,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"You look a mite lost!\" A fisherman has found you. If you are willing to spend $3 or discard an item in exchange, he's willing to offer passage off this rock. If you accept the offer, move to any aquatic location aand have an encounter there.",
     "skill": "",
@@ -2730,19 +2632,12 @@
     "text": "You spend the entire night out on the reef shivering but unharmed. Nothing happens.",
     "skill": "",
     "expansion": "Miskatonic Horror: Innsmouth Horror component"
-   }
+   },
+   "special_encounter": "Accursed: Investigators must end their movement upon entering Devil Reef. Flying Monsters may move into Devil Reef as though it were a street area."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Devil%27s_Hopyard\" title=\"Devil&apos;s Hopyard\">Devil&apos;s Hopyard</a>\n</td>\n<td> <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Devil%27s_Hopyard\" title=\"Devil&apos;s Hopyard\">Devil&apos;s Hopyard</a>\n",
-   " <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Devil's Hopyard",
    "link": "/Devil%27s_Hopyard"
@@ -2763,7 +2658,7 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A scientist from Miskatonic University is here to examine the dead plant life. He's happy to explain some of the area's stranger aspects, but he uses highly technical language. Make a Lore (-2) check to decipher what's he's saying. Gain 1 Clue token for each success.",
     "skill": "Lore -2",
@@ -2933,19 +2828,12 @@
     "text": "You've heard that strange creatures appear at night in the hopyard. If you wish, you may spend the night here and observe. If you do so, you are delayed and gain 3 Clue tokens observing the creatures that dwell here in the night.",
     "skill": "",
     "expansion": "Miskatonic Horror: Dunwich Horror component"
-   }
+   },
+   "special_encounter": "Strange Deal: Instead of having an encounter here, you may spend 5 toughness worth of monster trophies or 1 gate trophy to gain 1 Clue token and $2."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Dunwich_Village\" title=\"Dunwich Village\">Dunwich Village</a>\n</td>\n<td> <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Dunwich_Village\" title=\"Dunwich Village\">Dunwich Village</a>\n",
-   " <a href=\"/Village_Commons\" title=\"Village Commons\">Village Commons</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Dunwich Village",
    "link": "/Dunwich_Village"
@@ -2966,7 +2854,7 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A horse-drawn cart filled with supplies has pulled up outside the General store. If you agree to help Joe Osborn unload the cart, stay here next turn and gain $3.",
     "skill": "",
@@ -3136,19 +3024,12 @@
     "text": "You loiter around Osborn's General Store for a while, but the locals concentrate on their game of checkers, giving you the silent treatment. No encounter.",
     "skill": "",
     "expansion": "Miskatonic Horror: Dunwich Horror component"
-   }
+   },
+   "special_encounter": "Osborn's General Store: Instead of having an encounter here, you may pay $4 to roll a die. On a success, draw 1 Unique Item. On a failure, draw 1 Common Item"
   }
  },
  {
-  "html": "\n<td> <a href=\"/Esoteric_Order_of_Dagon\" title=\"Esoteric Order of Dagon\">Esoteric Order of Dagon</a>\n</td>\n<td> <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Esoteric_Order_of_Dagon\" title=\"Esoteric Order of Dagon\">Esoteric Order of Dagon</a>\n",
-   " <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Esoteric Order of Dagon",
    "link": "/Esoteric_Order_of_Dagon"
@@ -3169,7 +3050,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Do you seek the blessing of Dagon?\" If you do, draw two Innsmouth Look cards and become Blessed.",
     "skill": "",
@@ -3343,15 +3224,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Falcon_Point\" title=\"Falcon Point\">Falcon Point</a>\n</td>\n<td> <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Falcon_Point\" title=\"Falcon Point\">Falcon Point</a>\n",
-   " <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Falcon Point",
    "link": "/Falcon_Point"
@@ -3372,7 +3245,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Fish teem in the waters past Devil Reef, but off Falcon Point? Barely any!\" The old man spits. Pass a Will (-1) check to keep him talking and gain 1 Clue token.",
     "skill": "Will -1",
@@ -3542,19 +3415,12 @@
     "text": "You've accepted a fisherman's offer of a boat ride, but in the middle of the trip, the craft suddenly capsizes! Pass a Fight (-2) check to swim safely to shore, or be delayed.",
     "skill": "Fight -2",
     "expansion": "Innsmouth Horror"
-   }
+   },
+   "special_encounter": "Boat Charter: During the Movement Phase, you may spend $2 to move to any aquatic location and have an encounter there (if applicable), or move any other investigator in an aquatic location to Falcon Point. Investigators may not move any further after moving with this location ability."
   }
  },
  {
-  "html": "\n<td> <a href=\"/First_National_Grocery\" title=\"First National Grocery\">First National Grocery</a>\n</td>\n<td> <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/First_National_Grocery\" title=\"First National Grocery\">First National Grocery</a>\n",
-   " <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "First National Grocery",
    "link": "/First_National_Grocery"
@@ -3575,7 +3441,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Are you visiting family in town?\" asks the clerk. Draw one Innsmouth Look card.",
     "skill": "",
@@ -3645,19 +3511,12 @@
     "text": "The young manager, Brian Burnham, seems like he might believe your story. Make a Will (-1) check to convince him. If you succeed, you use his telephone to call the authorities. Gain a Clue token and place it on any one space of your choice on the Feds Raid Innsmouth track.",
     "skill": "Will -1",
     "expansion": "Innsmouth Horror"
-   }
+   },
+   "special_encounter": "Food and Gossip: Instead of having an encounter here, you may spend $1 to search the Common Item deck for a \"Food\" or \"Research Materials\" card."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Gardners%27_Place\" title=\"Gardners&apos; Place\">Gardners&apos; Place</a>\n</td>\n<td> <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Gardners%27_Place\" title=\"Gardners&apos; Place\">Gardners&apos; Place</a>\n",
-   " <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Gardners' Place",
    "link": "/Gardners%27_Place"
@@ -3678,7 +3537,7 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A bit of dirt has been disturbed here, revealing an oddly shaped skull. Something warns you that touching it could be a bad idea, but it seems to glow with power at the same time. If you decide to touch it, draw 1 Skill and 1 Madness card.",
     "skill": "",
@@ -3852,15 +3711,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/General_Store\" title=\"General Store\">General Store</a>\n</td>\n<td> <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/General_Store\" title=\"General Store\">General Store</a>\n",
-   " <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "General Store",
    "link": "/General_Store"
@@ -3879,7 +3730,7 @@
    "type": "Money"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Care for a pickled egg?\" If you accept the shopkeeper's offer, make a Luck (+1) check. Gain 1 Stamina per success. If you do not roll any successes, lose 2 Stamina.",
     "skill": "Luck +1",
@@ -4067,19 +3918,12 @@
     "text": "You try talking to the elderly locals gathered around the potbellied stove playing checkers, but you gain nothing but stares and few befuddled grunts for your trouble. Apparently they don't like outsiders. No encounter.",
     "skill": "",
     "expansion": "The Black Goat of the Woods"
-   }
+   },
+   "special_encounter": "Shop: Instead of having an encounter here, you may draw 3 Common Items and purchase one of them for its list price. Discard the other two items."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Gilman_House_Hotel\" title=\"Gilman House Hotel\">Gilman House Hotel</a>\n</td>\n<td> <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Gilman_House_Hotel\" title=\"Gilman House Hotel\">Gilman House Hotel</a>\n",
-   " <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Gilman House Hotel",
    "link": "/Gilman_House_Hotel"
@@ -4100,7 +3944,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Oh dear,\" remarks the desk clerk, with a slight smile and a shake of her head. \"Someone must have taken your bag by mistake. We'll try to get that cleared up as soon as possible.\" Discard 1 Common or Unique Item of your choice.",
     "skill": "",
@@ -4270,19 +4114,12 @@
     "text": "Your inquiries have attracted the attention of some locals. Pass a Will (-2) check to calm them down, or add an uprising token to the Deep Ones Rising track.",
     "skill": "Will -2",
     "expansion": "Innsmouth Horror"
-   }
+   },
+   "special_encounter": "Uneasy Sleep: After having an encounter here, if you are still at this location, you may gain 1 Sanity or 1 Stamina."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Graveyard\" title=\"Graveyard\">Graveyard</a>\n</td>\n<td> <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Graveyard\" title=\"Graveyard\">Graveyard</a>\n",
-   " <a href=\"/Rivertown\" title=\"Rivertown\">Rivertown</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Graveyard",
    "link": "/Graveyard"
@@ -4301,7 +4138,7 @@
    "type": "Unique Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Testifying\" Cooter Falwell latches onto you and rambles on about his spiritual beliefs. Make a Lore (-1) check. If you pass, then somewhere in Cooter's words you find a clue to the Mythos threat. Gain 1 Clue token, but lose 1 Sanity. If you fail, move to the street while you listen to Cooter ramble on about pure nonsense.",
     "skill": "Lore -1"
@@ -4498,15 +4335,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Hall_School\" title=\"Hall School\" class=\"mw-redirect\">Hall School</a>\n</td>\n<td> <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Hall_School\" title=\"Hall School\" class=\"mw-redirect\">Hall School</a>\n",
-   " <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Hall School",
    "link": "/Hall_School"
@@ -4527,7 +4356,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A couple of students have snuck outside, behind the school. Make a Sneak (-2) check to overhear what they say to each other when they think no one else is listening. If you pass, gain 2 Clue tokens.",
     "skill": "Sneak -2",
@@ -4701,15 +4530,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Harney_Jones%27_Shack\" title=\"Harney Jones&apos; Shack\">Harney Jones&apos; Shack</a>\n</td>\n<td> <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Harney_Jones%27_Shack\" title=\"Harney Jones&apos; Shack\">Harney Jones&apos; Shack</a>\n",
-   " <a href=\"/Blasted_Heath\" title=\"Blasted Heath\">Blasted Heath</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Harney Jones' Shack",
    "link": "/Harney_Jones%27_Shack"
@@ -4730,7 +4551,7 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Fancy two such nice folks comin' for a visit the same day. Allow me to make some introductions.\" Gain 1 Ally.",
     "skill": "",
@@ -4900,19 +4721,12 @@
     "text": "You knock on the door of the shack, but it appears that Harney is out. No encounter.",
     "skill": "",
     "expansion": "Miskatonic Horror: Dunwich Horror component"
-   }
+   },
+   "special_encounter": "Hospitality: Instead of having an encounter here, you may regain 1 Sanity or 1 Stamina."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Hibb%27s_Roadhouse\" title=\"Hibb&apos;s Roadhouse\">Hibb&apos;s Roadhouse</a>\n</td>\n<td> <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Hibb%27s_Roadhouse\" title=\"Hibb&apos;s Roadhouse\">Hibb&apos;s Roadhouse</a>\n",
-   " <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Hibb's Roadhouse",
    "link": "/Hibb%27s_Roadhouse"
@@ -4931,7 +4745,7 @@
    "type": "Money"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Care to make a couple extra bucks?\" The proprietor needs some help moving in the new pool table. Make a Fight (-1) check and gain $2 if you pass.",
     "skill": "Fight -1",
@@ -5128,15 +4942,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Historical_Society\" title=\"Historical Society\">Historical Society</a>\n</td>\n<td> <a href=\"/Southside\" title=\"Southside\">Southside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Skill Icon</span><a href=\"/File%3ASkillIcon.png\" class=\"image\" title=\"Skill\"><img alt=\"Skill\" src=\"/wiki/images/SkillIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Historical_Society\" title=\"Historical Society\">Historical Society</a>\n",
-   " <a href=\"/Southside\" title=\"Southside\">Southside</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Skill Icon</span><a href=\"/File%3ASkillIcon.png\" class=\"image\" title=\"Skill\"><img alt=\"Skill\" src=\"/wiki/images/SkillIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Historical Society",
    "link": "/Historical_Society"
@@ -5155,7 +4961,7 @@
    "type": "Spell"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"After my husband passed away, I thought the Society would be interested in his documents. He was very influential in Arkham.\" Make a Luck (-2) check to see if the curator recognizes their arcane significance. If you pass, gain 1 Spell as the Society passes these papers off to you.",
     "skill": "Luck -2",
@@ -5347,15 +5153,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Independence_Square\" title=\"Independence Square\">Independence Square</a>\n</td>\n<td> <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Independence_Square\" title=\"Independence Square\">Independence Square</a>\n",
-   " <a href=\"/Downtown\" title=\"Downtown\">Downtown</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Independence Square",
    "link": "/Independence_Square"
@@ -5374,7 +5172,7 @@
    "type": "Unique Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "A brass band plays some soft music from the veranda. Tapping your feet along with the catchy tunes, you feel better than you have in a while. Gain 2 Sanity.",
     "skill": "",
@@ -5571,15 +5369,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Inner_Sanctum\" title=\"Inner Sanctum\">Inner Sanctum</a>\n</td>\n<td> <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n</td>\n<td align=\"center\">  N/A\n</td>\n<td align=\"center\"> N/A\n</td>\n<td align=\"center\"> N/A\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Inner_Sanctum\" title=\"Inner Sanctum\">Inner Sanctum</a>\n",
-   " <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n",
-   "  N/A\n",
-   " N/A\n",
-   " N/A\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Inner Sanctum",
    "link": "/Inner_Sanctum"
@@ -5594,7 +5384,7 @@
   "encounterA": {},
   "encounterB": {},
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Admiring our library?\" Carl Sanford asks you. \"Membership has privileges. Borrow one of our texts if you wish.\" Search Unique Item deck and take the first Tome you find.",
     "skill": "",
@@ -5791,15 +5581,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Innsmouth_Jail\" title=\"Innsmouth Jail\">Innsmouth Jail</a>\n</td>\n<td> <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Innsmouth_Jail\" title=\"Innsmouth Jail\">Innsmouth Jail</a>\n",
-   " <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Innsmouth Jail",
    "link": "/Innsmouth_Jail"
@@ -5820,7 +5602,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A prisoner thinks he can get free if he gets enough money to bribe one of the constables. He offers to sell you the last of his belongings. Draw 1 Common Item. You may purchase it for the list price. If you do not have enough money but have at least $1, you may purchase it by discarding all of your money. If you have no money or choose not to purchase the item, it is discarded and nothing happens.",
     "skill": "",
@@ -5994,15 +5776,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Jail_Cell\" title=\"Jail Cell\">Jail Cell</a>\n</td>\n<td> <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n</td>\n<td align=\"center\">  N/A\n</td>\n<td align=\"center\"> N/A\n</td>\n<td align=\"center\"> N/A\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Jail_Cell\" title=\"Jail Cell\">Jail Cell</a>\n",
-   " <a href=\"/Church_Green\" title=\"Church Green\">Church Green</a>\n",
-   "  N/A\n",
-   " N/A\n",
-   " N/A\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Jail Cell",
    "link": "/Jail_Cell"
@@ -6019,7 +5793,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A black hood is thrown over your head, and you are taken to the docks, where you are placed on a small rowboat. After some time, your bonds are removed, and you are pushed roughly out of the boat and onto the ground. \"Have fun!\" the guards say, laughing. Pulling off your hood, you find yourself far out to sea on top of a reef. Move to Devil Reef and have an encounter.",
     "skill": "",
@@ -6189,19 +5963,12 @@
     "text": "The guards leave you alone for a while, so you examine your cell wall. Pushing aside some loose stones, you crawl out the tight opening to freedom and then replace the stones. Move to Sawbone Alley.",
     "skill": "",
     "expansion": "Miskatonic Horror: Innsmouth Horror component"
-   }
+   },
+   "special_encounter": "Jail Break: Each investigator in the Jail Cell during the Arkham Encounter Phase makes a Sneak (-1) check and draws one encounter card, plus one additional card for every success rolled, encountering one card of his choice and discarding the others."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Library\" title=\"Library\">Library</a>\n</td>\n<td> <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Library\" title=\"Library\">Library</a>\n",
-   " <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Library",
    "link": "/Library"
@@ -6220,7 +5987,7 @@
    "type": "Spell"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "A book in a shadowy corner of the library begins to whisper terrible things to you. Lose 1 Sanity.",
     "skill": ""
@@ -6417,15 +6184,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Ma%27s_Boarding_House\" title=\"Ma&apos;s Boarding House\">Ma&apos;s Boarding House</a>\n</td>\n<td> <a href=\"/Southside\" title=\"Southside\">Southside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Ally Icon</span><a href=\"/File%3AAllyIcon.png\" class=\"image\" title=\"Ally\"><img alt=\"Ally\" src=\"/wiki/images/AllyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Ma%27s_Boarding_House\" title=\"Ma&apos;s Boarding House\">Ma&apos;s Boarding House</a>\n",
-   " <a href=\"/Southside\" title=\"Southside\">Southside</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Ally Icon</span><a href=\"/File%3AAllyIcon.png\" class=\"image\" title=\"Ally\"><img alt=\"Ally\" src=\"/wiki/images/AllyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Ma's Boarding House",
    "link": "/Ma%27s_Boarding_House"
@@ -6444,7 +6203,7 @@
    "type": "Stamina"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Jazz\" Mulligan, the head janitor from the college comes for some of Ma's famous apple pie. While he's visiting, he demonstrates how he got his nickname by playing some soulful blues on his harmonica. Gain 1 Sanity.",
     "skill": "",
@@ -6637,19 +6396,12 @@
     "text": "Zebulon Whateley visits from Dunwich to bring Ma a tonic for her cough. In addition, if your Lore is currently 4 or more, he takes you aside and teaches you a spell. Draw 1 Spell.",
     "skill": "",
     "expansion": "Dunwich Horror"
-   }
+   },
+   "special_encounter": "Recruit: Instead of having an encounter here, you may spend 10 toughness worth of monster trophies, 2 gate trophies, or 5 toughness worth of monster trophies and 1 gate trophy to take 1 Ally of your choice from the Ally deck."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Marsh_Refinery\" title=\"Marsh Refinery\">Marsh Refinery</a>\n</td>\n<td> <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Marsh_Refinery\" title=\"Marsh Refinery\">Marsh Refinery</a>\n",
-   " <a href=\"/Factory_District\" title=\"Factory District\">Factory District</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Marsh Refinery",
    "link": "/Marsh_Refinery"
@@ -6670,7 +6422,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A couple of workers are walking with a half-hopping gait to the back of the building. One of them stumbles and drops a large canvas bag, spilling several strange objects on the ground. He tries to gather them back up quickly, but may have missed something. Make a Luck (-2) check. For each success, you may draw 1 Unique Item. Choose 1 to keep and discard the rest.",
     "skill": "Luck -2",
@@ -6844,15 +6596,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Neil%27s_Curiosity_Shop\" title=\"Neil&apos;s Curiosity Shop\">Neil&apos;s Curiosity Shop</a>\n</td>\n<td> <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Neil%27s_Curiosity_Shop\" title=\"Neil&apos;s Curiosity Shop\">Neil&apos;s Curiosity Shop</a>\n",
-   " <a href=\"/South_Shore\" title=\"South Shore\">South Shore</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Neil's Curiosity Shop",
    "link": "/Neil%27s_Curiosity_Shop"
@@ -6873,7 +6617,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"I guarantee you've never seen anything like this!\" Neil holds up a jar containing a small white creature. You may pay $1 to examine it and make a Lore (-1) check. If you pass, gain 2 Clue tokens. If you fail, you gain 1 brood token if Eihort is the Ancient One. Otherwise, nothing happens.",
     "skill": "",
@@ -7043,19 +6787,12 @@
     "text": "You see a strange young man dickering with Neil over the price of a musty book. \"Blast you, man! Just set a price, already!\" It turns out that Neil's more interested in a couple of your items, however. If you discard 2 Common Items, the young man gives his name as Charles Dexter Ward. Take his Ally card or, if it's not available, draw the top 5 Spells and keep one of them.",
     "skill": "",
     "expansion": "Miskatonic Horror: Kingsport Horror component"
-   }
+   },
+   "special_encounter": "Pawn: Instead of having an encounter here, you may sell a Common or Unique Item. Make a Will (-1) check. If you pass, you get its list price. If you fail, you get half its list price (round up)."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Newspaper\" title=\"Newspaper\">Newspaper</a>\n</td>\n<td> <a href=\"/Northside\" title=\"Northside\">Northside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Newspaper\" title=\"Newspaper\">Newspaper</a>\n",
-   " <a href=\"/Northside\" title=\"Northside\">Northside</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Newspaper",
    "link": "/Newspaper"
@@ -7074,7 +6811,7 @@
    "type": "Money"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Get out!\" snarls the surly janitor, shaking a fist at you as he pokes his head into the archive room. \"We're closed!\" As he moves off down the hallway, he shouts back over his shoulder, \"If I come back and you're still here...\" Make a Will (-1) check. If you succeed, gain 2 Clue tokens. If you fail, move to the street.",
     "skill": "Will -1",
@@ -7271,15 +7008,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/North_Point_Lighthouse\" title=\"North Point Lighthouse\">North Point Lighthouse</a>\n</td>\n<td> <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/North_Point_Lighthouse\" title=\"North Point Lighthouse\">North Point Lighthouse</a>\n",
-   " <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "North Point Lighthouse",
    "link": "/North_Point_Lighthouse"
@@ -7300,7 +7029,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Wait here, I think I've got an old heirloom that may help you.\" Basil Elton goes into the lighthouse to look. If you pass a Luck (-1) check, gain 1 Unique Item. If you fail the check, he can't find it.",
     "skill": "Luck -1",
@@ -7470,19 +7199,12 @@
     "text": "You notice an odd ship docked by the shore, but no one else seems to pay it any mind. If you decide to swim out to the ship, roll a die to see how you are received. On a success, move to the second area of any Other World of your choice, even if there isn't currently an open gate leading there. On a failure, you are lost in time and space.",
     "skill": "",
     "expansion": "Kingsport Horror"
-   }
+   },
+   "special_encounter": "The White Ship: Instead of having an encounter here, you my spend 10 toughness worth of monster trophies, 2 gate trophies, or 5 toughness worth of monster trophies and 1 gate trophy to take the Captain of the White Ship card."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Police_Station\" title=\"Police Station\">Police Station</a>\n</td>\n<td> <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Police_Station\" title=\"Police Station\">Police Station</a>\n",
-   " <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Police Station",
    "link": "/Police_Station"
@@ -7501,7 +7223,7 @@
    "type": "Common Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Haven't had time to bring him out to the asylum,\" Sheriff Engle explains when he notices you eyeing a straitjacketed lunatic ranting in one of the cells. That's when you realize what the madman's saying. You are delayed as you jot notes about his ravings, but gain 2 Clue Tokens.",
     "skill": "",
@@ -7689,19 +7411,12 @@
     "text": "You're sitting in the reception area when Sheriff Engle steps out of the back. He looks at you intently. Make a Will (-1) check. If you succeed, he hands you a pair of handcuffs and says \"You look like you could put these to good use.\" Search the Common Items deck for a Handcuffs card. If you fail, nothing happens.",
     "skill": "Will -1",
     "expansion": "Kingsport Horror"
-   }
+   },
+   "special_encounter": "Deputized: Instead of having an encounter here, you may spend 10 toughness worth of monster trophies, 2 gate trophies, or 5 toughness worth of monster trophies and 1 gate trophy to become the Deputy of Arkham. Take the Deputy of Arkham card."
   }
  },
  {
-  "html": "\n<td> <a href=\"/River_Docks\" title=\"River Docks\">River Docks</a>\n</td>\n<td> <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/River_Docks\" title=\"River Docks\">River Docks</a>\n",
-   " <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "River Docks",
    "link": "/River_Docks"
@@ -7720,7 +7435,7 @@
    "type": "Money"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Listen,\" says Joey \"The Rat\". \"These just fell off the back of the boat, you get me?\" Draw 2 Common Items. You may purchase one of them for $1 more than its list price.",
     "skill": "",
@@ -7913,19 +7628,12 @@
     "text": "Your footsteps on the wooden dock are echoed by splashing noises below that keep pace with you. Make a Will (+0) check. If you fail, lose 2 Sanity and move to the street. If you pass, lose 1 Sanity but stay where you are.",
     "skill": "Will +0",
     "expansion": "Innsmouth Horror"
-   }
+   },
+   "special_encounter": "Shady Character: Instead of having an encounter here, you may spend 5 toughness worth of monster trophies or 1 gate trophy to gain $5."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Science_Building\" title=\"Science Building\">Science Building</a>\n</td>\n<td> <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Science_Building\" title=\"Science Building\">Science Building</a>\n",
-   " <a href=\"/Miskatonic_University\" title=\"Miskatonic University\">Miskatonic University</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Science Building",
    "link": "/Science_Building"
@@ -7944,7 +7652,7 @@
    "type": "Unique Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"It's a simple transference principle, really,\" the professor explains. \"Simply place an everyday item on this platform...\" If you discard a Common Item, you may roll a number of dice equal to the item's cost. You may draw a number of cards from the Unique Item deck equal to the number of successes rolled, keeping one and discarding the rest.",
     "skill": "",
@@ -8132,19 +7840,12 @@
     "text": "You watch, disturbed, as two students immerse a live rabbit in fluid, instantly transforming it to marble! Make a  Sneak (-1) check to take the fluid before they can do anything dangerous with it. If you pass, search the Unique Item deck for Petrifying Solution and take it. If you fail, they catch you in the act and splash some of the fluid on you. You are delayed.",
     "skill": "Sneak -1",
     "expansion": "The King in Yellow"
-   }
+   },
+   "special_encounter": "Dissection: Instead of having an encounter here, you may spend 5 toughness worth of monster trophies or 1 gate trophy to gain 2 Clue tokens."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Silver_Twilight_Lodge\" title=\"Silver Twilight Lodge\">Silver Twilight Lodge</a>\n</td>\n<td> <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Silver_Twilight_Lodge\" title=\"Silver Twilight Lodge\">Silver Twilight Lodge</a>\n",
-   " <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Silver Twilight Lodge",
    "link": "/Silver_Twilight_Lodge"
@@ -8163,7 +7864,7 @@
    "type": "Unique Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Care to join the order?\" asks Carl Sanford and his henchmen. If you accept, pay $3 and take a Silver Twilight Membership. If you decline, pass a Will (-1) check or lose 3 Stamina as the henchmen assist you to the door. Whether you pass or not, move to the street.",
     "skill": "Will -1",
@@ -8360,15 +8061,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/South_Church\" title=\"South Church\">South Church</a>\n</td>\n<td> <a href=\"/Southside\" title=\"Southside\">Southside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/South_Church\" title=\"South Church\">South Church</a>\n",
-   " <a href=\"/Southside\" title=\"Southside\">Southside</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Blessing Icon</span><a href=\"/File%3ABlessingIcon.png\" class=\"image\" title=\"Blessing\"><img alt=\"Blessing\" src=\"/wiki/images/BlessingIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "South Church",
    "link": "/South_Church"
@@ -8387,7 +8080,7 @@
    "type": "Sanity"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"A strong soul must be willing to make sacrifices,\" Father Michael says. You may discard a single beneficial Investigator card (a Spell, Item, Ally, etc.) to make a Luck (+1) check. If you pass, you are restored to full Sanity. If you fail, you gain only 1 Sanity.",
     "skill": "Luck +1",
@@ -8580,19 +8273,12 @@
     "text": "You touch the altar and a bright light flashes. Draw a mythos card and go to the gate location shown. Draw four location cards and choose one of them to encounter, discarding the others.",
     "skill": "",
     "expansion": "Kingsport Horror"
-   }
+   },
+   "special_encounter": "Blessing: Instead of having an encounter here, you may spend 5 toughness worth of monster trophies or 1 gate trophy to have any investigator you choose be Blessed."
   }
  },
  {
-  "html": "\n<td> <a href=\"/St._Erasmus%27s_Home\" title=\"St. Erasmus&apos;s Home\">St. Erasmus&apos;s Home</a>\n</td>\n<td> <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/St._Erasmus%27s_Home\" title=\"St. Erasmus&apos;s Home\">St. Erasmus&apos;s Home</a>\n",
-   " <a href=\"/Central_Hill\" title=\"Central Hill\">Central Hill</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "St. Erasmus's Home",
    "link": "/St._Erasmus%27s_Home"
@@ -8613,7 +8299,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Sorry folks, it's time for lights out! You can come back tomorrow, but for now you'll all have to leave!\" Move to the street",
     "skill": "",
@@ -8787,15 +8473,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/St._Mary%27s_Hospital\" title=\"St. Mary&apos;s Hospital\">St. Mary&apos;s Hospital</a>\n</td>\n<td> <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/St._Mary%27s_Hospital\" title=\"St. Mary&apos;s Hospital\">St. Mary&apos;s Hospital</a>\n",
-   " <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "St. Mary's Hospital",
    "link": "/St._Mary%27s_Hospital"
@@ -8814,7 +8492,7 @@
    "type": "Stamina"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "A medium beckons you into a room full of the bereaved, grieving for the recently deceased. He confides that his power is insufficient to complete his ritual and contact the dead man's spirit. If you will help him, he can tell you many secrets. You may discard a Spell to take 3 Clue tokens.",
     "skill": "",
@@ -9007,19 +8685,12 @@
     "text": "You try to rouse a man from a coma brought on by a visit to the Black Cave. Awakening, he begins to ramble. If you are lucky, you will be able to make out some of the words before the nurse comes. Gain a number of Clue tokens equal to your Luck.",
     "skill": "",
     "expansion": "Kingsport Horror"
-   }
+   },
+   "special_encounter": "Medical Care: Instead of having an encounter here, you may recover Stamina by receiving medical care. You may either regain 1 Stamina for free, or pay $2 to restore your Stamina to its maximum value."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Strange_High_House\" title=\"Strange High House\">Strange High House</a>\n</td>\n<td> <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Strange_High_House\" title=\"Strange High House\">Strange High House</a>\n",
-   " <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Strange High House",
    "link": "/Strange_High_House"
@@ -9040,7 +8711,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A window opens, and a strange, gentle man dressed in archaic clothes smiles at you. If you pass a Will (-2) check or discard Ancient Tome, he introduces himself as William Bain and offers you his help. Take his Ally card. if it isn't available, you are Blessed.",
     "skill": "Will -2",
@@ -9210,19 +8881,12 @@
     "text": "You visit with the strange, otherworldly William Bain for awhile, when suddenly he hushes you, frantically locks the door and all the windows, and then douses the light. The two of you crouch in silence as a chilling shadow makes its way around the house, trying every door and window before leaving. You are delayed and lose 1 Sanity.",
     "skill": "",
     "expansion": "Kingsport Horror"
-   }
+   },
+   "special_encounter": "Otherworldly: Instead of having an encounter here, you may spend 10 toughness worth of monster trophies, 2 gate trophies, or 5 toughness worth of monster trophies and 1 gate trophy to take the Changed card."
   }
  },
  {
-  "html": "\n<td> <a href=\"/The_Causeway\" title=\"The Causeway\">The Causeway</a>\n</td>\n<td> <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/The_Causeway\" title=\"The Causeway\">The Causeway</a>\n",
-   " <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "The Causeway",
    "link": "/The_Causeway"
@@ -9243,7 +8907,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A couple of Kingsport children got stuck on a rock outcropping while looking for a rumored treasure. Make a Luck (-2) check. If you pass, the rumors are true. Gain a Unique Item. Regardless of whether you pass or not, you are delayed rescuing the children.",
     "skill": "Luck -2",
@@ -9413,19 +9077,12 @@
     "text": "You think you could reach the Wireless Station by scrambling up a steep incline. If you wish to give it a try, make a Fight (-1) check. If you pass, move to the Wireless Station. If you fail, lose 1 Stamina and move to the Harborside streets.",
     "skill": "Fight -1",
     "expansion": "Miskatonic Horror: Kingsport Horror component"
-   }
+   },
+   "special_encounter": "Hard Going: You must end your movement upon entering this location."
   }
  },
  {
-  "html": "\n<td> <a href=\"/The_Rope_and_Anchor\" title=\"The Rope and Anchor\">The Rope and Anchor</a>\n</td>\n<td> <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/The_Rope_and_Anchor\" title=\"The Rope and Anchor\">The Rope and Anchor</a>\n",
-   " <a href=\"/Harborside\" title=\"Harborside\">Harborside</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Sanity Icon</span><a href=\"/File%3ASanityIcon.png\" class=\"image\" title=\"Sanity\"><img alt=\"Sanity\" src=\"/wiki/images/SanityIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "The Rope and Anchor",
    "link": "/The_Rope_and_Anchor"
@@ -9446,7 +9103,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Sorry folks, it's midnight. Time to close up.\" Move to the street.",
     "skill": "",
@@ -9616,19 +9273,12 @@
     "text": "Unfortunately, due to Prohibition, the quality of liquor isn't what it used to be. You get a bad batch and wind up vomiting in the alley. Lose 1 Stamina.",
     "skill": "",
     "expansion": "Kingsport Horror"
-   }
+   },
+   "special_encounter": "Tavern: Instead of having an encounter here, you may spend $1 to search the Common Item deck for a \"Food\" or \"Whiskey\" card."
   }
  },
  {
-  "html": "\n<td> <a href=\"/The_Unnamable\" title=\"The Unnamable\">The Unnamable</a>\n</td>\n<td> <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/The_Unnamable\" title=\"The Unnamable\">The Unnamable</a>\n",
-   " <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "The Unnamable",
    "link": "/The_Unnamable"
@@ -9647,7 +9297,7 @@
    "type": "Unique Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "A box full of documents in the closet has grown damp and moldy. Make a Luck (+1) check to see if anything of value has been spared. If you pass, gain 1 Clue token.",
     "skill": "Luck +1",
@@ -9839,15 +9489,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/The_Witch_House\" title=\"The Witch House\">The Witch House</a>\n</td>\n<td> <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/The_Witch_House\" title=\"The Witch House\">The Witch House</a>\n",
-   " <a href=\"/French_Hill\" title=\"French Hill\">French Hill</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "The Witch House",
    "link": "/The_Witch_House"
@@ -9866,7 +9508,7 @@
    "type": "Spell"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Excuse me, stranger, but have you ever seen this symbol before?\" A man standing near the house holds up an occult symbol. Make a Lore (-1) check. If you pass, the man introduces himself as Thomas F. Malone, a police detective visiting Arkham on a case. He's impressed with you and offers to join you. Take his Ally card. If it's not available, he tells you some valuable information instead. Gain 2 Clue tokens. If you fail, nothing happens.",
     "skill": "Lore -1"
@@ -10058,15 +9700,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Train_Station\" title=\"Train Station\">Train Station</a>\n</td>\n<td> <a href=\"/Northside\" title=\"Northside\">Northside</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Train_Station\" title=\"Train Station\">Train Station</a>\n",
-   " <a href=\"/Northside\" title=\"Northside\">Northside</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Train Station",
    "link": "/Train_Station"
@@ -10085,7 +9719,7 @@
    "type": "Unique Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Hey, buddy, you forgot your bag!\" You didn't, but before you can object, the man is gone. You open the bag and find a Common Item inside.",
     "skill": "",
@@ -10282,15 +9916,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Unvisited_Isle\" title=\"Unvisited Isle\">Unvisited Isle</a>\n</td>\n<td> <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Unvisited_Isle\" title=\"Unvisited Isle\">Unvisited Isle</a>\n",
-   " <a href=\"/Merchant_District\" title=\"Merchant District\">Merchant District</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Unvisited Isle",
    "link": "/Unvisited_Isle"
@@ -10309,7 +9935,7 @@
    "type": "Spell"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "A group of hooded cultists are having a meeting among the standing stones on the island. Pass a Sneak (-1) check to overhear some of what they have to say. Gain 2 Clue tokens.",
     "skill": "Sneak -1"
@@ -10506,15 +10132,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Velma%27s_Diner\" title=\"Velma&apos;s Diner\">Velma&apos;s Diner</a>\n</td>\n<td> <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Velma%27s_Diner\" title=\"Velma&apos;s Diner\">Velma&apos;s Diner</a>\n",
-   " <a href=\"/Easttown\" title=\"Easttown\">Easttown</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Velma's Diner",
    "link": "/Velma%27s_Diner"
@@ -10533,7 +10151,7 @@
    "type": "Stamina"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Good grief, look at this mess. Hey, you want to make some quick cash? I'll give you $2 to sweep the diner and take out the trash.\" If you accept, gain $2 and stay here next turn.",
     "skill": "",
@@ -10730,15 +10348,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Whateley_Farm\" title=\"Whateley Farm\">Whateley Farm</a>\n</td>\n<td> <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Whateley_Farm\" title=\"Whateley Farm\">Whateley Farm</a>\n",
-   " <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Whateley Farm",
    "link": "/Whateley_Farm"
@@ -10759,7 +10369,7 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A folded note addressed to \"Wilbur\" pokes out from under the door. Having a look at it, you discover it is written in some sort of code. Make a Lore (-2) check to decipher it. If you pass, gain 2 Clue tokens.",
     "skill": "Lore -2",
@@ -10933,15 +10543,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Wireless_Station\" title=\"Wireless Station\">Wireless Station</a>\n</td>\n<td> <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Wireless_Station\" title=\"Wireless Station\">Wireless Station</a>\n",
-   " <a href=\"/Kingsport_Head\" title=\"Kingsport Head\">Kingsport Head</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Stamina Icon</span><a href=\"/File%3AStaminaIcon.png\" class=\"image\" title=\"Stamina\"><img alt=\"Stamina\" src=\"/wiki/images/StaminaIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">4</span><a href=\"/File%3AKingsportIcon.png\" class=\"image\" title=\"Kingsport Horror\"><img alt=\"Kingsport Horror\" src=\"/wiki/images/KingsportIcon.png\" width=\"18\" height=\"20\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Wireless Station",
    "link": "/Wireless_Station"
@@ -10962,7 +10564,7 @@
   "expansion": {
    "type": "Kingsport Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Hey! Get out of here!\" Hiram Grumbacher, the construction foreman, angrily runs you off the construction site. Move to the Causeway.",
     "skill": "",
@@ -11132,19 +10734,12 @@
     "text": "You see the corner of some worn antique trunk poking up out of the ground where the workmen have been digging. Make a Sneak (-2) check to dig it up and reveal the contents. If you pass, gain 1 Common Item. If you fail, move to the Causeway",
     "skill": "Sneak -2",
     "expansion": "Miskatonic Horror: Kingsport Horror component"
-   }
+   },
+   "special_encounter": "Hard Going: You must end your movement upon entering this location."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Wizard%27s_Hill\" title=\"Wizard&apos;s Hill\">Wizard&apos;s Hill</a>\n</td>\n<td> <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Wizard%27s_Hill\" title=\"Wizard&apos;s Hill\">Wizard&apos;s Hill</a>\n",
-   " <a href=\"/Backwoods_Country\" title=\"Backwoods Country\">Backwoods Country</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">2</span><a href=\"/File%3ADunwichHorrorIcon.png\" class=\"image\" title=\"Dunwich Horror\"><img alt=\"Dunwich Horror\" src=\"/wiki/images/DunwichHorrorIcon.png\" width=\"17\" height=\"12\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Wizard's Hill",
    "link": "/Wizard%27s_Hill"
@@ -11165,18 +10760,10 @@
   "expansion": {
    "type": "Dunwich Horror"
   },
-  "data": {}
+  "encounters": {}
  },
  {
-  "html": "\n<td> <a href=\"/Woods\" title=\"Woods\">Woods</a>\n</td>\n<td> <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Woods\" title=\"Woods\">Woods</a>\n",
-   " <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">C</span><a href=\"/File%3ACommonIcon.png\" class=\"image\" title=\"Common Item\"><img alt=\"Common Item\" src=\"/wiki/images/CommonIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Money Icon</span><a href=\"/File%3AMoneyIcon.png\" class=\"image\" title=\"Money\"><img alt=\"Money\" src=\"/wiki/images/MoneyIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Woods",
    "link": "/Woods"
@@ -11195,7 +10782,7 @@
    "type": "Money"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "A car has smashed into a tree. The driver, a member of the Sheldon Gang, is unconscious and a bag of stolen valuables sits next to him. You can hear other members of the gang coming through the woods looking for him. Make a Sneak (-2) check. If you pass, gain $3. If you fail, you are delayed While hiding from the gang.",
     "skill": "Sneak -2",
@@ -11387,15 +10974,7 @@
   }
  },
  {
-  "html": "\n<td> <a href=\"/Y%27ha-nthlei\" title=\"Y&apos;ha-nthlei\">Y&apos;ha-nthlei</a>\n</td>\n<td> <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n</td>",
-  "sub": [
-   " <a href=\"/Y%27ha-nthlei\" title=\"Y&apos;ha-nthlei\">Y&apos;ha-nthlei</a>\n",
-   " <a href=\"/Innsmouth_Shore\" title=\"Innsmouth Shore\">Innsmouth Shore</a>\n",
-   " <span style=\"display:none\">Unstable Icon</span><a href=\"/File%3AUnstableIcon.png\" class=\"image\" title=\"Unstable Location\"><img alt=\"Unstable Location\" src=\"/wiki/images/UnstableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Clue Icon</span><a href=\"/File%3AClueIcon.png\" class=\"image\" title=\"Clue\"><img alt=\"Clue\" src=\"/wiki/images/ClueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">6</span><a href=\"/File%3AInnsmouthIcon.png\" class=\"image\" title=\"Innsmouth Horror\"><img alt=\"Innsmouth Horror\" src=\"/wiki/images/InnsmouthIcon.png\" width=\"18\" height=\"18\"></a>\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Y'ha-nthlei",
    "link": "/Y%27ha-nthlei"
@@ -11416,7 +10995,7 @@
   "expansion": {
    "type": "Innsmouth Horror"
   },
-  "data": {
+  "encounters": {
    "0": {
     "text": "A pool in one of the rooms reveals many figures swimming beneath the floor you are standing on. You then see the shadow of something very large swim past. Make a Will (-1) check. If you fail, lose 2 Sanity.",
     "skill": "Will -1",
@@ -11586,19 +11165,12 @@
     "text": "Your foot slips on one of the damp ledges and you go tumbling down a steep incline. Make a Luck (-1) check. If you pass, you end up landing right next to a rare and powerful artifact. Search the Unique Item deck and take the first Weapon you find. If you fail, you land on a bunch of rocks. Lose 2 Stamina.",
     "skill": "Luck -1",
     "expansion": "Miskatonic Horror: Innsmouth Horror component"
-   }
+   },
+   "special_encounter": "Inaccessible: Investigators may only enter Y'ha-nthlei from Devil Reef or when returning to Arkham from an Other World, regardless of other game effects. This is true even if there is an open gate here."
   }
  },
  {
-  "html": "\n<td> <a href=\"/Ye_Olde_Magick_Shoppe\" title=\"Ye Olde Magick Shoppe\">Ye Olde Magick Shoppe</a>\n</td>\n<td> <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td align=\"center\"> <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n</td>\n<td>\n</td>",
-  "sub": [
-   " <a href=\"/Ye_Olde_Magick_Shoppe\" title=\"Ye Olde Magick Shoppe\">Ye Olde Magick Shoppe</a>\n",
-   " <a href=\"/Uptown\" title=\"Uptown\">Uptown</a>\n",
-   " <span style=\"display:none\">Stable Icon</span><a href=\"/File%3AStableIcon.png\" class=\"image\" title=\"Stable Location\"><img alt=\"Stable Location\" src=\"/wiki/images/StableIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">Spell Icon</span><a href=\"/File%3ASpellIcon.png\" class=\"image\" title=\"Spell\"><img alt=\"Spell\" src=\"/wiki/images/SpellIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   " <span style=\"display:none\">U</span><a href=\"/File%3AUniqueIcon.png\" class=\"image\" title=\"Unique Item\"><img alt=\"Unique Item\" src=\"/wiki/images/UniqueIcon.png\" width=\"19\" height=\"19\"></a>\n",
-   "\n"
-  ],
+  "sub": [],
   "location": {
    "name": "Ye Olde Magick Shoppe",
    "link": "/Ye_Olde_Magick_Shoppe"
@@ -11617,7 +11189,7 @@
    "type": "Unique Item"
   },
   "expansion": {},
-  "data": {
+  "encounters": {
    "0": {
     "text": "\"Ah, there you are. That item you ordered has come in.\" Oddly enough, you ordered no such item. If you wish, you may make a Will (-2) check to impersonate the rightful owner. If you pass, you may draw 1 Unique Item. If you fail, you are arrested.",
     "skill": "Will -2",
@@ -11810,7 +11382,8 @@
    "39": {
     "text": "You see an interesting book sitting open on Miriam Beecher's desk. Pass a Lore (-1) check or you peer closely at its pages only to realize too late that the book is Cursed... and now, so are you.",
     "skill": "Lore -1"
-   }
+   },
+   "special_encounter": "Magic Lessons: Instead of having an encounter here, you may pay $5 to draw 2 Spells. Keep one of them and discard the other."
   }
  }
 ]
