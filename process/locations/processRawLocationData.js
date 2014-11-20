@@ -22,6 +22,9 @@ var noExpansion = function(data) {
                     }
                     );
                 }
+                if(i === 'special_encounter') {
+                	location.special_encounter = v;
+                }
             });
             result.push(location);
         }

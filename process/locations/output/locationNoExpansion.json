@@ -24,7 +24,8 @@
    {
     "text": "Your discussions on the Mythos lead campus security to conclude that you are off your rocker, and they escort you off campus. Move to Arkham Asylum and immediately have an encounter there."
    }
-  ]
+  ],
+  "special_encounter": "Classes: Instead of having an encounter here, you may pay $8 to draw 2 Skills. Keep one of them and discard the other."
  },
  {
   "name": "Arkham Asylum",
@@ -51,7 +52,8 @@
    {
     "text": "You hear screaming.  When you open a heavy cell door to investigate, a dark shape leaps out at you!  It's an insane man in a straightjacket babbling about invisible horrors.  Make a Lore (-2) check to glean some useful information from him.  If you pass, gain 2 Clue tokens.  If you fail, lose 1 Stamina as he attacks you."
    }
-  ]
+  ],
+  "special_encounter": "Psychiatric Care: Instead of having an encounter here, you may recover Sanity by receiving psychiatric care. You may either regain 1 Sanity for free, or pay $2 to restore your Sanity to its maximum value."
  },
  {
   "name": "Bank of Arkham",
@@ -78,7 +80,8 @@
    {
     "text": "You see a richly dressed man making a large withdrawal. On the way out, he lights his cigar with a piece of green paper which he then drops on the ground. Pass a Speed (-1) check to stub it out with your toe before it burns up. You discover it to be a slightly singed two dollar bill. Gain $2."
    }
-  ]
+  ],
+  "special_encounter": "Bank Loan: Instead of having an encounter here, you may take out a Bank Loan if you don't have one yet."
  },
  {
   "name": "Black Cave",
@@ -132,7 +135,8 @@
    {
     "text": "You weed through piles of junk looking for something useful. Make a Luck (-1) check to see what you find. If you pass, your search has resulted in success. You may look at the top cards of both the Common and Unique Item decks. You may purchase one, both, or neither at list price.  If you fail, there is little of interest here, but you may look at the top card of the Common Item deck and purchase it for its list price."
    }
-  ]
+  ],
+  "special_encounter": "Shop: Instead of having an encounter here, you may draw 3 Unique Items and purchase one of them for its list price. Discard the other two items."
  },
  {
   "name": "General Store",
@@ -159,7 +163,8 @@
    {
     "text": "You try talking to the elderly locals gathered around the potbellied stove playing checkers, but you gain nothing but stares and few befuddled grunts for your trouble. Apparently they don't like outsiders. No encounter."
    }
-  ]
+  ],
+  "special_encounter": "Shop: Instead of having an encounter here, you may draw 3 Common Items and purchase one of them for its list price. Discard the other two items."
  },
  {
   "name": "Graveyard",
@@ -348,7 +353,8 @@
    {
     "text": "You find a poorly boarded-up passage in the basement that opens into a winding tunnel. If you venture into it, you exit in the Silver Twilight Lodge. Draw 2 cards and encounter one card of your choice, discarding the other."
    }
-  ]
+  ],
+  "special_encounter": "Recruit: Instead of having an encounter here, you may spend 10 toughness worth of monster trophies, 2 gate trophies, or 5 toughness worth of monster trophies and 1 gate trophy to take 1 Ally of your choice from the Ally deck."
  },
  {
   "name": "Newspaper",
@@ -402,7 +408,8 @@
    {
     "text": "Sheriff Engle trusts you and asks you to step into his office to discuss the recent strange events. Pass a Luck (-2) check to convince him to take you into his confidence and give you something to help you out. Draw 1 Unique Item."
    }
-  ]
+  ],
+  "special_encounter": "Deputized: Instead of having an encounter here, you may spend 10 toughness worth of monster trophies, 2 gate trophies, or 5 toughness worth of monster trophies and 1 gate trophy to become the Deputy of Arkham. Take the Deputy of Arkham card."
  },
  {
   "name": "River Docks",
@@ -429,7 +436,8 @@
    {
     "text": "You open some crates on the dock. Inside you find some useful things. Draw 2 Common Items. Next, make a Luck (-1) check. If you pass, you get away without being seen. If you fail, you are arrested and taken to the Police Station."
    }
-  ]
+  ],
+  "special_encounter": "Shady Character: Instead of having an encounter here, you may spend 5 toughness worth of monster trophies or 1 gate trophy to gain $5."
  },
  {
   "name": "Science Building",
@@ -456,7 +464,8 @@
    {
     "text": "You find a student pounding on a strange device that he has hooked up to massive machinery. He states that it is a dimensional beam machine. If you offer to help him, make a  Lore (-2) check. If you pass, beams shoot out in all directions, disrupting the gates open throughout the board. Roll a die for each open gate one at a time. On a success the gate is closed. However, you may not take it as a trophy, but instead return it to the pile of gate markers. If you fail, the machinery overheats and explodes. Roll a die and lose that much Stamina, then move to St. Mary's Hospital."
    }
-  ]
+  ],
+  "special_encounter": "Dissection: Instead of having an encounter here, you may spend 5 toughness worth of monster trophies or 1 gate trophy to gain 2 Clue tokens."
  },
  {
   "name": "Silver Twilight Lodge",
@@ -510,7 +519,8 @@
    {
     "text": "You join in the morning mass. Spend 1 Clue token to ask for heavenly aid. If you do so, roll a die. On a success, your prayers are answered. Remove 1 doom token from the Ancient One's doom track."
    }
-  ]
+  ],
+  "special_encounter": "Blessing: Instead of having an encounter here, you may spend 5 toughness worth of monster trophies or 1 gate trophy to have any investigator you choose be Blessed."
  },
  {
   "name": "St. Mary's Hospital",
@@ -537,7 +547,8 @@
    {
     "text": "You sneak a peek at the medical records for a recent admission who was involved in a cult ritual. Pass a Lore (+0) check to learn something about the cult's methods Gain 1 Clue token."
    }
-  ]
+  ],
+  "special_encounter": "Medical Care: Instead of having an encounter here, you may recover Stamina by receiving medical care. You may either regain 1 Stamina for free, or pay $2 to restore your Stamina to its maximum value."
  },
  {
   "name": "The Unnamable",
@@ -726,6 +737,7 @@
    {
     "text": "You see an interesting book sitting open on Miriam Beecher's desk. Pass a Lore (-1) check or you peer closely at its pages only to realize too late that the book is Cursed... and now, so are you."
    }
-  ]
+  ],
+  "special_encounter": "Magic Lessons: Instead of having an encounter here, you may pay $5 to draw 2 Spells. Keep one of them and discard the other."
  }
 ]
