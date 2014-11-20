@@ -177,7 +177,7 @@ var urlToFilename = function(url) {
 var urlToDataFilename = function(url) {
 	var parts = url.split('/');
 	var last = parts.slice(-1);
-	return 'data/'+last+'.json';
+	return 'data/raw_'+last+'.json';
 }
 
 var url = base + '/Location';
