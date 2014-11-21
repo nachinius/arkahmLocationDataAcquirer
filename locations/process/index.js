@@ -3,7 +3,7 @@
  * a cleaned json
  */
 
-var locationJson = require('./source/RawLocationData.json');
+var locationJson = require('./../datae/raw_Location.json');
 var processRawLocationData = require('./processRawLocationData');
 
 var clean = processRawLocationData(locationJson);

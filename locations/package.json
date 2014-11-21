@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^0.18.0",
+    "express": "*",
+    "request": "^2.48.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

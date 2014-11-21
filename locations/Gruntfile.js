@@ -7,16 +7,13 @@ module.exports = function(grunt) {
 	
 	var config = { 
 		nodemon: {
-			  mythos: {
-			    script: 'mythos/index.js'
-			  },
-			  locations: {
-				  script: 'locations/index.js'
+			  dev: {
+			    script: 'index.js'
 			  }
 			}
 	}
 	
 	grunt.initConfig(config);
 	
-	grunt.registerTask('default', [ 'nodemon:locations' ]);
+	grunt.registerTask('default', [ 'nodemon' ]);
 };
