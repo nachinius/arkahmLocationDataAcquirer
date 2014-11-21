@@ -14,7 +14,7 @@ module.exports = function(grunt) {
 				script : 'locations/index.js'
 			},
 			dev : {
-				script : 'src/index.js'
+				script : 'crawler/index.js'
 			}
 		}
 	};
