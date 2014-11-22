@@ -25,7 +25,6 @@ var minimalConfiguration = {
 		},
 		mergeData : function(primaryData, secondaryData) {
 			return {
-				single : data
 			};
 		},
 	},
@@ -46,24 +45,24 @@ var minimalConfiguration = {
 function mergeOptions(instance, minimalConfiguration, options) {
 	// info must contains all keys and subkeys shown in minimalConfiguration
 	Object.keys(minimalConfiguration).forEach(
-			function(val, idx) {
-				if (typeof options[idx] === 'undefined') {
-					throw ("Crawler Constructor Undefined " + idx);
+			function(key) {
+				if (typeof options[key] === 'undefined') {
+					throw ("Crawler Constructor Undefined " + val);
 				}
-				if (typeof val === 'Object') {
-					Object.keys(val).forEach(
-							function(v2, i2) {
-								if (typeof options[idx][i2] === 'undefined') {
+				if (typeof minimalConfiguration[key] === 'Object') {
+					Object.keys(minimalConfiguration[key]).forEach(
+							function(key2) {
+								if (typeof options[key][key2] === 'undefined') {
 									throw ("Crawler Constructor: Undefined "
-											+ idx + " " + "i2");
+											+ key + " " + key2);
 								}
 							});
 				}
 			});
 
 	// copy options into this object
-	Object.keys(options).forEach(function(val, idx) {
-		instance[idx] = val;
+	Object.keys(options).forEach(function(key) {
+		instance[key] = options[key];
 	});
 
 }
@@ -79,12 +78,19 @@ var Crawler = function(options) {
 	 */
 	this.process = function() {
 		var acc = {};
-		this.requestHtml(this.primary.location).then(
-				this.obtainPrimaryDataFromHtml(acc)).then(
-				this.obtainLinksFromPrimaryData(acc)).then(
-				this.transformLinksToAbsolute(acc)).then(
-				this.obtainSecondaryDataFromSecondaryHtml(acc)).then(
-				this.mergePrimaryAndSecondaryData(acc)).then(this.saveData)
+        var that = this;
+		that.requestHtml('http://'+that.baseurl+that.primary.location).then(
+				that.obtainPrimaryDataFromHtml(acc)).then(
+				that.obtainLinksFromPrimaryData(acc)).then(
+				that.transformLinksToAbsolute(acc)).then(
+				that.obtainSecondaryDataFromSecondaryHtml(acc)).then(
+				that.mergePrimaryAndSecondaryData(acc)).then(
+                function(data) {
+                    return that.saveData(data);
+                })
+				.catch(function(err) {
+                    console.log('unknown error', err);
+				})
 				.done(function() {
 					console.log('FINISHED !');
 				});
@@ -107,8 +113,9 @@ var Crawler = function(options) {
 	this.transformLinksToAbsolute = function(acc) {
 		var that = this;
 		return function() {
-			acc.links = acc.links.map(function(e, i) {
-				return that.baseurl + '/' + e;
+			acc.absoluteLinks = [];
+			acc.links.forEach(function(e, i) {
+				acc.absoluteLinks[e] = 'http://'+that.baseurl.trim('/') + e;
 			});
 			return '';
 		};
@@ -117,18 +124,18 @@ var Crawler = function(options) {
 	this.obtainSecondaryDataFromSecondaryHtml = function(acc) {
 		var that = this;
 		return function() {
-			return Q.all(acc.links.map(function(e, i) {
-				console.log('Calling link: ' + e);
-				return that.requestHtml(e).then(function(obj) {
-					console.log('Link obtained: ' + e);
+
+            var result = {};
+            var promises = Object.keys(acc.absoluteLinks).map(function(e) {
+				return that.requestHtml(acc.absoluteLinks[e]).then(function(obj) {
 					var res = that.secondary.obtainDataFromHtml(obj);
-					console.log('Processing link: ' + e);
-					return {
-						e : res
-					};
+                    result[e]=res;
+					return res;
 				});
-			})).then(function(array) {
-				acc.secondary = array;
+			});
+            
+            return Q.all(promises).then(function() {
+				acc.secondary = result;
 				return '';
 			});
 		};
@@ -137,18 +144,22 @@ var Crawler = function(options) {
 	this.mergePrimaryAndSecondaryData = function(acc) {
 		var that = this;
 		return function() {
-			return that.secondary.mergeData(acc.primary, acc.secondary);
+            console.log(acc);
+			var obj = that.secondary.mergeData(acc.primary, acc.secondary);
+            console.log(obj)
+            return obj;
 		};
 	};
 
+	this.htmlCacheDir = 'html/';
+	this.dataDir = '/data/';
+
 	this.saveData = function(data) {
-		var that = this;
-		return Q.nfcall(FS.writeFile, that.dataDir + that.filenameToSaveData
-				+ '.json', JSON.stringify(data, null, 1));
+        var filename = this.getDataFilename();
+        console.log('Saving output ',filename);
+		return Q.nfcall(FS.writeFile, filename, JSON.stringify(data, null, 1));
 	};
 
-	this.htmlCacheDir = './html/';
-	this.dataDir = './data/';
 
 	/**
 	 * Given a url address, a simple identifier.
@@ -158,7 +169,7 @@ var Crawler = function(options) {
 	 * @return string which does not have any '/'
 	 */
 	this.getLastPart = function(url) {
-		return url.split('/').slice(-1);
+		return url.split('/').splice(-1);
 	};
 
 	/**
@@ -167,14 +178,21 @@ var Crawler = function(options) {
 	 * @return string which is a valid filename
 	 */
 	this.urlToCachingFilename = function(url) {
-		return this.htmlCachedDir + this.getLastPart(url) + '.html';
+		return process.cwd()+'/'+this.htmlCacheDir + this.getLastPart(url) + '.html';
 	};
 
-	this.requestHttp = function(url, filename) {
+    this.getDataFilename = function() {
+        return process.cwd() + this.dataDir + this.filenameToSaveData;
+    }
+
+	this.requestHttp = function(url) {
 		return Q.nfcall(REQUEST, url).then(function(response) {
-			if (response[0].status === '200') {
+			if (response[0].statusCode == 200) {
+				console.log('got good response for '+url);
 				return response[0].body;
 			} else {
+                FS.appendFile('output.log', JSON.stringify({url: url, response: response},null,1));
+                console.log('failed http request to ',url);
 				return '';
 			}
 		});
@@ -187,18 +205,19 @@ var Crawler = function(options) {
 	 */
 	this.requestHtml = function(url) {
 		var filename = this.urlToCachingFilename(url);
-		return Q.nfcall(FS.exists, filename).then(function(exists) {
-			if (exists) {
-				return Q.nfcall(FS.readFile, filename);
-			} else {
-				return this.requestHttp(url, filename).then(function(html) {
+		var that = this;
+        
+        return Q.nfcall(FS.readFile, filename).then(function(fileData) {
+            return fileData;
+        }, function(fileDoesNotExists) {
+				return that.requestHttp(url).then(function(html) {
 					if (html) {
+                        console.log('writing...'+filename);
 						FS.writeFile(filename, html);
 					}
 					return html;
 				});
-			}
-		});
+        });
 	};
 
 	mergeOptions(this, minimalConfiguration, options);
