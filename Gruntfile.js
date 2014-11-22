@@ -3,23 +3,53 @@
  */
 module.exports = function(grunt) {
 
-	grunt.loadNpmTasks('grunt-nodemon');
+	var config = {};
 
-	var config = {
-		nodemon : {
-			mythos : {
-				script : 'mythos/index.js'
+	// Mocha tests
+	grunt.loadNpmTasks('grunt-mocha-test');
+	config.mochaTest = {
+		test : {
+			options : {
+				reporter : 'spec',
+				captureFile : 'report.txt',
+				quite : false,
+				clearRequireCache : false
 			},
-			locations : {
-				script : 'locations/index.js'
-			},
-			dev : {
-				script : 'crawler/index.js'
-			}
+			src : [ 'crawler/test/*.mocha.js' ]
 		}
 	};
 
+	// Nodemon
+	grunt.loadNpmTasks('grunt-nodemon');
+	config.nodemon = {
+		mythos : {
+			script : 'mythos/index.js'
+		},
+		locations : {
+			script : 'locations/index.js'
+		},
+		dev : {
+			script : 'crawler/index.js'
+		}
+	};
+
+	// contrib-watch
+	grunt.loadNpmTasks('grunt-contrib-watch');
+	config.watch = {
+		tests : {
+			files : [ 'crawler/**/*.js' ],
+			tasks : [ 'mochaTest' ],
+			options : {
+				interrupt : true
+			}
+		}
+	};
+	grunt.event.on('watch', function(action, filepath, target) {
+		grunt.log.writeln(target + ': ' + filepath + ' has ' + action);
+		grunt.log.writeln('buuuuuuu... running watchers')
+	});
+
 	grunt.initConfig(config);
 
-	grunt.registerTask('default', [ 'nodemon:dev' ]);
+	grunt.registerTask('default', 'watch:tests');
 };
