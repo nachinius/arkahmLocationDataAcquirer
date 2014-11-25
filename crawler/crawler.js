@@ -144,9 +144,7 @@ var Crawler = function(options) {
 	this.mergePrimaryAndSecondaryData = function(acc) {
 		var that = this;
 		return function() {
-            console.log(acc);
 			var obj = that.secondary.mergeData(acc.primary, acc.secondary);
-            console.log(obj)
             return obj;
 		};
 	};
