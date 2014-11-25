@@ -25,6 +25,9 @@ module.exports = function(grunt) {
 		mythos : {
 			script : 'mythos/index.js'
 		},
+		allies : {
+			script : 'allies/index.js'
+		},
 		locations : {
 			script : 'locations/index.js'
 		},
