@@ -31,6 +31,9 @@ module.exports = function(grunt) {
 		locations : {
 			script : 'locations/index.js'
 		},
+		monsters: {
+			script : 'monsters/index.js'
+		},
 		dev : {
 			script : 'crawler/index.js'
 		}
