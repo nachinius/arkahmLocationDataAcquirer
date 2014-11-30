@@ -74,11 +74,14 @@ var obtainSecondaryDataFromHtml =function(html) {
 	
 	var data = $('.MonsterCombatStats').find('.HorrorRating');
 	obj.horrorRating = clean(data.text());
-	obj.horrorDamage = clean(data.next().text());
-	obj.toughness = clean(data.next().text());
-	obj.combatRating = clean(data.next().text());
-	obj.combatDamage = clean(data.next().text());
-	
+	var next = data.next();
+	obj.horrorDamage = clean(next.text());
+	next = next.next();
+	obj.toughness = clean(next.text());
+	next = next.next();
+	obj.combatRating = clean(next.text());
+	next = next.next();
+	obj.combatDamage = clean(next.text());
 	
 	return obj;
 };

@@ -10,8 +10,8 @@
   "awareness": "-3",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "Being of Ib",
@@ -79,13 +79,13 @@
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "+0",
+  "combatDamage": "2"
  },
  {
   "name": "Child of Abhoth",
   "movement": "Stalker",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -93,13 +93,13 @@
   "awareness": "+1",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "Child of Abhoth (2)",
   "movement": "Stalker",
-  "toughness": "4",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -107,13 +107,13 @@
   "awareness": "+1",
   "horrorRating": "-2",
   "horrorDamage": "4",
-  "combatRating": "4",
-  "combatDamage": "4"
+  "combatRating": "-1",
+  "combatDamage": "2"
  },
  {
   "name": "Child of Abhoth (3)",
   "movement": "Stalker",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -121,13 +121,13 @@
   "awareness": "+1",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-2",
+  "combatDamage": "4"
  },
  {
   "name": "Child of the Goat",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Hexagon",
   "type": "",
   "expansion": "The Black Goat of the Woods",
@@ -135,26 +135,26 @@
   "awareness": "-3",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
+  "combatRating": "+1",
   "combatDamage": ""
  },
  {
   "name": "Chthonian",
   "movement": "Unique",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Triangle",
   "type": "",
   "quantity": "2",
   "awareness": "+1",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "Colour Out of Space",
   "movement": "Unique",
-  "toughness": "4",
+  "toughness": "2",
   "dimension": "Square",
   "type": "",
   "expansion": "Dunwich Horror",
@@ -162,13 +162,13 @@
   "awareness": "+1",
   "horrorRating": "-3",
   "horrorDamage": "4",
-  "combatRating": "4",
-  "combatDamage": "4"
+  "combatRating": "+0",
+  "combatDamage": "1"
  },
  {
   "name": "Crawling One",
   "movement": "Normal",
-  "toughness": "3",
+  "toughness": "1",
   "dimension": "Circle",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -176,26 +176,26 @@
   "awareness": "-1",
   "horrorRating": "-3",
   "horrorDamage": "3",
-  "combatRating": "3",
-  "combatDamage": "3"
+  "combatRating": "-X",
+  "combatDamage": "2"
  },
  {
   "name": "Cultist",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Crescent",
   "type": "",
   "quantity": "6",
   "awareness": "-3",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "+1",
+  "combatDamage": "1"
  },
  {
   "name": "Cultist",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Dunwich Horror",
@@ -203,13 +203,13 @@
   "awareness": "-3",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "+1",
+  "combatDamage": "1"
  },
  {
   "name": "Cultist",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -217,13 +217,13 @@
   "awareness": "-3",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "+1",
+  "combatDamage": "1"
  },
  {
   "name": "Cultist",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Innsmouth Horror",
@@ -231,13 +231,13 @@
   "awareness": "-3",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "+1",
+  "combatDamage": "1"
  },
  {
   "name": "Dark Druid",
   "movement": "Unique",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Hexagon",
   "type": "",
   "expansion": "The Black Goat of the Woods",
@@ -245,7 +245,7 @@
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
+  "combatRating": "-2",
   "combatDamage": "1"
  },
  {
@@ -258,7 +258,7 @@
   "awareness": "-2",
   "horrorRating": "+0",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-1",
   "combatDamage": "3"
  },
  {
@@ -272,7 +272,7 @@
   "awareness": "-2",
   "horrorRating": "+0",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-1",
   "combatDamage": "3"
  },
  {
@@ -286,7 +286,7 @@
   "awareness": "-2",
   "horrorRating": "+0",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-1",
   "combatDamage": "3"
  },
  {
@@ -300,7 +300,7 @@
   "awareness": "+0",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-1",
   "combatDamage": "2"
  },
  {
@@ -314,20 +314,20 @@
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "+0",
+  "combatDamage": "2"
  },
  {
   "name": "Dhole",
   "movement": "Normal",
-  "toughness": "4",
+  "toughness": "3",
   "dimension": "Circle",
   "type": "",
   "quantity": "1",
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "4",
-  "combatRating": "4",
+  "combatRating": "-3",
   "combatDamage": "4"
  },
  {
@@ -340,8 +340,8 @@
   "awareness": "-3",
   "horrorRating": "-2",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-2",
+  "combatDamage": ""
  },
  {
   "name": "Elder Thing",
@@ -353,8 +353,8 @@
   "awareness": "-2",
   "horrorRating": "-3",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "+0",
+  "combatDamage": "1"
  },
  {
   "name": "Elder Thing",
@@ -367,34 +367,34 @@
   "awareness": "-2",
   "horrorRating": "-3",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "+0",
+  "combatDamage": "1"
  },
  {
   "name": "Fire Vampire",
   "movement": "Flying",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Star",
   "type": "",
   "quantity": "2",
   "awareness": "+0",
   "horrorRating": "-",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-2",
+  "combatDamage": "2"
  },
  {
   "name": "Flying Polyp",
   "movement": "Flying",
-  "toughness": "4",
+  "toughness": "3",
   "dimension": "Hexagon",
   "type": "",
   "quantity": "1",
   "awareness": "+0",
   "horrorRating": "-2",
   "horrorDamage": "4",
-  "combatRating": "4",
-  "combatDamage": "4"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "Formless Spawn",
@@ -406,7 +406,7 @@
   "awareness": "+0",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
@@ -420,7 +420,7 @@
   "awareness": "+0",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
@@ -434,13 +434,13 @@
   "awareness": "+0",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "Ghast",
   "movement": "Normal",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Circle",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -448,20 +448,20 @@
   "awareness": "-2",
   "horrorRating": "+0",
   "horrorDamage": "1",
-  "combatRating": "1",
+  "combatRating": "-3",
   "combatDamage": "1"
  },
  {
   "name": "Ghost",
   "movement": "Stationary",
-  "toughness": "2",
+  "toughness": "1",
   "dimension": "Crescent",
   "type": "",
   "quantity": "3",
   "awareness": "-3",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-3",
   "combatDamage": "2"
  },
  {
@@ -474,13 +474,13 @@
   "awareness": "-3",
   "horrorRating": "+0",
   "horrorDamage": "1",
-  "combatRating": "1",
+  "combatRating": "-1",
   "combatDamage": "1"
  },
  {
   "name": "Gnoph-Keh",
   "movement": "Normal",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Square",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -488,13 +488,13 @@
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "Goat Spawn",
   "movement": "Fast",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Hexagon",
   "type": "",
   "expansion": "Dunwich Horror",
@@ -502,13 +502,13 @@
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
+  "combatRating": "-2",
   "combatDamage": "1"
  },
  {
   "name": "Goat Spawn",
   "movement": "Fast",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Hexagon",
   "type": "",
   "expansion": "The Black Goat of the Woods",
@@ -516,34 +516,34 @@
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
+  "combatRating": "-2",
   "combatDamage": "1"
  },
  {
   "name": "God of the Bloody Tongue",
   "movement": "Normal",
-  "toughness": "3",
+  "toughness": "4",
   "dimension": "Triangle",
   "type": "Mask",
   "quantity": "1",
   "awareness": "+1",
   "horrorRating": "-3",
   "horrorDamage": "3",
-  "combatRating": "3",
-  "combatDamage": "3"
+  "combatRating": "-4",
+  "combatDamage": "4"
  },
  {
   "name": "Gug",
   "movement": "Normal",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Slash",
   "type": "",
   "quantity": "2",
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-2",
+  "combatDamage": "4"
  },
  {
   "name": "Haunter of the Dark",
@@ -555,34 +555,34 @@
   "awareness": "-3",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "High Priest",
   "movement": "Normal",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Plus",
   "type": "",
   "quantity": "1",
   "awareness": "-2",
   "horrorRating": "+1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-2",
+  "combatDamage": "2"
  },
  {
   "name": "Hound of Tindalos",
   "movement": "Unique",
-  "toughness": "4",
+  "toughness": "2",
   "dimension": "Square",
   "type": "",
   "quantity": "2",
   "awareness": "-1",
   "horrorRating": "-2",
   "horrorDamage": "4",
-  "combatRating": "4",
-  "combatDamage": "4"
+  "combatRating": "-1",
+  "combatDamage": "3"
  },
  {
   "name": "Hunting Horror",
@@ -595,8 +595,8 @@
   "awareness": "-3",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-2",
+  "combatDamage": "4"
  },
  {
   "name": "Leng Spider",
@@ -609,13 +609,13 @@
   "awareness": "-2",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-1",
+  "combatDamage": "4"
  },
  {
   "name": "Lloigor",
   "movement": "Unique",
-  "toughness": "3",
+  "toughness": "2",
   "dimension": "Square",
   "type": "",
   "expansion": "Innsmouth Horror",
@@ -623,39 +623,39 @@
   "awareness": "+0",
   "horrorRating": "-1",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-2",
   "combatDamage": "3"
  },
  {
   "name": "Maniac",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Crescent",
   "type": "",
   "quantity": "3",
   "awareness": "-1",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "+1",
+  "combatDamage": "1"
  },
  {
   "name": "Mi-Go",
   "movement": "Flying",
-  "toughness": "2",
+  "toughness": "1",
   "dimension": "Circle",
   "type": "",
   "quantity": "3",
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "+0",
+  "combatDamage": "1"
  },
  {
   "name": "Mi-Go",
   "movement": "Flying",
-  "toughness": "2",
+  "toughness": "1",
   "dimension": "Circle",
   "type": "",
   "expansion": "Innsmouth Horror",
@@ -663,13 +663,13 @@
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "+0",
+  "combatDamage": "1"
  },
  {
   "name": "Moon-beast",
   "movement": "Aquatic",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Slash",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -677,13 +677,13 @@
   "awareness": "+0",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "Mummy",
   "movement": "Stalker",
-  "toughness": "1",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Dunwich Horror",
@@ -691,26 +691,26 @@
   "awareness": "-1",
   "horrorRating": "-2",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-2",
+  "combatDamage": "2"
  },
  {
   "name": "Nightgaunt",
   "movement": "Flying",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Slash",
   "type": "",
   "quantity": "2",
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-2",
+  "combatDamage": ""
  },
  {
   "name": "Nightgaunt",
   "movement": "Flying",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Slash",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -718,8 +718,8 @@
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-2",
+  "combatDamage": ""
  },
  {
   "name": "Priest of Dagon",
@@ -732,13 +732,13 @@
   "awareness": "-2",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "Proto-Shoggoth",
   "movement": "Fast",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Diamond",
   "type": "",
   "expansion": "Innsmouth Horror",
@@ -746,7 +746,7 @@
   "awareness": "-2",
   "horrorRating": "+0",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "+0",
   "combatDamage": "2"
  },
  {
@@ -760,13 +760,13 @@
   "awareness": "-4",
   "horrorRating": "+0",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-1",
+  "combatDamage": "2"
  },
  {
   "name": "Riot",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "The King in Yellow",
@@ -774,13 +774,13 @@
   "awareness": "-2",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-4",
+  "combatDamage": "4"
  },
  {
   "name": "Riot (2)",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "The King in Yellow",
@@ -788,13 +788,13 @@
   "awareness": "-2",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-4",
+  "combatDamage": "4"
  },
  {
   "name": "Riot (3)",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "The King in Yellow",
@@ -802,13 +802,13 @@
   "awareness": "-2",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-4",
+  "combatDamage": "4"
  },
  {
   "name": "Serpent People",
   "movement": "Normal",
-  "toughness": "2",
+  "toughness": "1",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -816,13 +816,13 @@
   "awareness": "",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-2",
+  "combatDamage": "4"
  },
  {
   "name": "Servant of Glaaki",
   "movement": "Normal",
-  "toughness": "3",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -830,13 +830,13 @@
   "awareness": "+1",
   "horrorRating": "-2",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-2",
   "combatDamage": "3"
  },
  {
   "name": "Servant of Glaaki (2)",
   "movement": "Normal",
-  "toughness": "3",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -844,13 +844,13 @@
   "awareness": "+1",
   "horrorRating": "-2",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-2",
   "combatDamage": "3"
  },
  {
   "name": "Servant of Glaaki (3)",
   "movement": "Normal",
-  "toughness": "3",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -858,13 +858,13 @@
   "awareness": "+1",
   "horrorRating": "-2",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-2",
   "combatDamage": "3"
  },
  {
   "name": "Servant of Glaaki (4)",
   "movement": "Normal",
-  "toughness": "3",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -872,13 +872,13 @@
   "awareness": "+1",
   "horrorRating": "-2",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-2",
   "combatDamage": "3"
  },
  {
   "name": "Servant of Glaaki (5)",
   "movement": "Normal",
-  "toughness": "3",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -886,7 +886,7 @@
   "awareness": "+1",
   "horrorRating": "-2",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-2",
   "combatDamage": "3"
  },
  {
@@ -900,13 +900,13 @@
   "awareness": "+0",
   "horrorRating": "-3",
   "horrorDamage": "3",
-  "combatRating": "3",
-  "combatDamage": "3"
+  "combatRating": "-2",
+  "combatDamage": ""
  },
  {
   "name": "Shadowy Figure",
   "movement": "Unique",
-  "toughness": "",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "Mask",
   "expansion": "Kingsport Horror",
@@ -914,13 +914,13 @@
   "awareness": "",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-2",
+  "combatDamage": "2"
  },
  {
   "name": "Shan",
   "movement": "Flying",
-  "toughness": "",
+  "toughness": "2",
   "dimension": "Triangle",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -928,8 +928,8 @@
   "awareness": "+0",
   "horrorRating": "-2",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-2",
+  "combatDamage": "1"
  },
  {
   "name": "Shoggoth",
@@ -941,7 +941,7 @@
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-1",
   "combatDamage": "3"
  },
  {
@@ -955,13 +955,13 @@
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-1",
   "combatDamage": "3"
  },
  {
   "name": "Shugeron",
   "movement": "Aquatic",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Plus",
   "type": "Mask",
   "expansion": "Innsmouth Horror",
@@ -969,13 +969,13 @@
   "awareness": "-1",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "Skeleton",
   "movement": "Aquatic",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -983,13 +983,13 @@
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-1",
+  "combatDamage": "2"
  },
  {
   "name": "Spectral Hunter",
   "movement": "Stationary",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Square",
   "type": "",
   "expansion": "Dunwich Horror",
@@ -997,21 +997,21 @@
   "awareness": "-4",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "Star Spawn",
   "movement": "Normal",
-  "toughness": "2",
+  "toughness": "3",
   "dimension": "Plus",
   "type": "",
   "quantity": "2",
   "awareness": "-1",
   "horrorRating": "-3",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "Star Vampire",
@@ -1024,13 +1024,13 @@
   "awareness": "-3",
   "horrorRating": "-3",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-3",
   "combatDamage": "3"
  },
  {
   "name": "Tcho-tcho",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Dunwich Horror",
@@ -1038,13 +1038,13 @@
   "awareness": "-2",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-2",
+  "combatDamage": "2"
  },
  {
   "name": "Tcho-tcho Priest",
   "movement": "Fast",
-  "toughness": "3",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -1052,8 +1052,8 @@
   "awareness": "-1",
   "horrorRating": "-2",
   "horrorDamage": "3",
-  "combatRating": "3",
-  "combatDamage": "3"
+  "combatRating": "-3",
+  "combatDamage": "2"
  },
  {
   "name": "Tendril of Nyogtha",
@@ -1066,13 +1066,13 @@
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "The Beast",
   "movement": "Stalker",
-  "toughness": "2",
+  "toughness": "4",
   "dimension": "Star",
   "type": "Mask",
   "expansion": "Dunwich Horror",
@@ -1080,13 +1080,13 @@
   "awareness": "+0",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "The Black Man",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Crescent",
   "type": "Mask",
   "quantity": "1",
@@ -1106,26 +1106,26 @@
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "2",
-  "combatRating": "2",
+  "combatRating": "-2",
   "combatDamage": "2"
  },
  {
   "name": "The Dark Pharoah",
   "movement": "Normal",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Slash",
   "type": "Mask",
   "quantity": "1",
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "The Dunwich Horror",
   "movement": "Unique",
-  "toughness": "",
+  "toughness": "5",
   "dimension": "Crescent",
   "type": "Spawn",
   "expansion": "Dunwich Horror",
@@ -1133,13 +1133,13 @@
   "awareness": "+2",
   "horrorRating": "*",
   "horrorDamage": "",
-  "combatRating": "",
+  "combatRating": "*",
   "combatDamage": ""
  },
  {
   "name": "The Skinless One",
   "movement": "Fast",
-  "toughness": "",
+  "toughness": "2",
   "dimension": "Circle",
   "type": "Mask",
   "expansion": "Kingsport Horror",
@@ -1147,7 +1147,7 @@
   "awareness": "-2",
   "horrorRating": "-2",
   "horrorDamage": "",
-  "combatRating": "",
+  "combatRating": "-2",
   "combatDamage": ""
  },
  {
@@ -1160,8 +1160,8 @@
   "awareness": "-3",
   "horrorRating": "+0",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "Wailing Writher",
@@ -1174,26 +1174,26 @@
   "awareness": "-3",
   "horrorRating": "-3",
   "horrorDamage": "3",
-  "combatRating": "3",
+  "combatRating": "-3",
   "combatDamage": "3"
  },
  {
   "name": "Warlock",
   "movement": "Stationary",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Circle",
   "type": "",
   "quantity": "2",
   "awareness": "-2",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
+  "combatRating": "-3",
   "combatDamage": "1"
  },
  {
   "name": "Werewolf",
   "movement": "Unique",
-  "toughness": "1",
+  "toughness": "2",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -1201,21 +1201,21 @@
   "awareness": "",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-3",
+  "combatDamage": "2"
  },
  {
   "name": "Witch",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "1",
   "dimension": "Circle",
   "type": "",
   "quantity": "2",
   "awareness": "-1",
   "horrorRating": "",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-3",
+  "combatDamage": "2"
  },
  {
   "name": "Wizard Whateley",
@@ -1228,13 +1228,13 @@
   "awareness": "-2",
   "horrorRating": "-2",
   "horrorDamage": "2",
-  "combatRating": "2",
-  "combatDamage": "2"
+  "combatRating": "-3",
+  "combatDamage": "3"
  },
  {
   "name": "Wraith",
   "movement": "Flying",
-  "toughness": "1",
+  "toughness": "3",
   "dimension": "Crescent",
   "type": "",
   "expansion": "Dunwich Horror",
@@ -1242,13 +1242,13 @@
   "awareness": "+0",
   "horrorRating": "-2",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-2",
+  "combatDamage": "2"
  },
  {
   "name": "Yithian",
   "movement": "Normal",
-  "toughness": "",
+  "toughness": "3",
   "dimension": "Triangle",
   "type": "",
   "expansion": "Kingsport Horror",
@@ -1256,8 +1256,8 @@
   "awareness": "-1",
   "horrorRating": "-1",
   "horrorDamage": "",
-  "combatRating": "",
-  "combatDamage": ""
+  "combatRating": "-2",
+  "combatDamage": "2"
  },
  {
   "name": "Zombie",
@@ -1269,7 +1269,7 @@
   "awareness": "+1",
   "horrorRating": "-1",
   "horrorDamage": "1",
-  "combatRating": "1",
-  "combatDamage": "1"
+  "combatRating": "-1",
+  "combatDamage": "2"
  }
 ]
