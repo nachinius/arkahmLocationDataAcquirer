@@ -31,6 +31,9 @@ module.exports = function(grunt) {
 		locations : {
 			script : 'locations/index.js'
 		},
+		otherworld: {
+			script : 'otherWorld/index.js'
+		},
 		monsters: {
 			script : 'monsters/index.js'
 		},
